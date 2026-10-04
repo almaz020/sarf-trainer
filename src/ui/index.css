@@ -159,7 +159,7 @@ button { max-width: 100%; }
   padding: 6px 16px 0;
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 4px;
 }
 .gate { padding: 16px; gap: 16px; }
 .trainer > * { min-width: 0; }
@@ -169,7 +169,7 @@ button { max-width: 100%; }
 .pronoun { font-size: clamp(1.6rem, 6.5vw, 2rem); text-align: center; }
 .pronoun-desc { text-align: center; color: var(--muted); font-size: 0.9rem; }
 .ref { margin: 0; text-align: center; font-size: 0.72rem; color: var(--muted); }
-.ref-slot { height: 2.3rem; display: flex; align-items: center; justify-content: center; overflow: hidden; }
+.ref-slot { height: 1.8rem; display: flex; align-items: center; justify-content: center; overflow: hidden; }
 .ref-slot .ref { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.15; }
 .verb, .task { display: flex; flex-direction: column; align-items: center; }
 
@@ -181,18 +181,18 @@ button { max-width: 100%; }
 }
 .trainer[data-status='ok'] .answer { border-color: var(--ok); }
 .trainer[data-status='wrong'] .answer, .trainer[data-status='revealed'] .answer { border-color: var(--bad); }
-.tiles { display: flex; flex-wrap: nowrap; gap: 6px; height: 58px; align-items: center; overflow-x: auto; overflow-y: hidden; }
+.tiles { display: flex; flex-wrap: nowrap; gap: 6px; height: 72px; align-items: flex-end; overflow-x: auto; overflow-y: hidden; padding-bottom: 4px; }
 .tile {
   flex: 0 1 44px;
-  height: 50px;
+  height: 64px;
   min-width: 28px;
-  padding: 0 4px;
+  padding: 12px 4px 0;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   font: inherit;
   font-size: 1.7rem;
-  line-height: 1.9;
+  line-height: 1.5;
   background: var(--bg);
   color: var(--fg);
   border: 2px solid var(--line);
@@ -201,7 +201,8 @@ button { max-width: 100%; }
 .tile[aria-pressed='true'] { background: var(--sel); border-color: var(--accent); }
 .preview {
   margin-top: 4px;
-  height: 3.2rem;
+  height: 4.6rem;
+  padding-top: 0.8rem;
   font-size: 1.9rem;
   line-height: 1.7;
   text-align: center;
@@ -213,7 +214,7 @@ button { max-width: 100%; }
 .palette.is-hidden { visibility: hidden; }
 .key {
   min-width: 40px;
-  min-height: 40px;
+  min-height: 36px;
   padding: 0 8px;
   font: inherit;
   font-size: 1.5rem;
