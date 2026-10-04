@@ -10,7 +10,7 @@ import { demoRuleSources, demoVerb, demoVerbs } from './demo';
 import { stripMarks } from './plain';
 import { PRONOUNS, pronounText as pronounView } from './pronouns';
 import { PRONOUN_ORDER, shufflePronouns } from './session';
-import { shuffleLetters } from './shuffle';
+import { buildPalette } from './palette';
 import { defaultPersisted, type Persisted, type Store } from './storage';
 
 afterEach(() => {
@@ -452,14 +452,13 @@ describe('App: буквы вразнобой', () => {
     const user = setup();
     const ctl = { v: 0 };
     render(<App verbs={[demoVerb]} missingRuleSources={[]} ruleSourcesFor={rules} random={() => ctl.v} store={fakeStore().store} />);
-    const base = [...new Set([...demoVerb.root, 'ت', 'ن', 'و', 'ا', 'م'])];
     const firstOrder = letters();
-    expect(firstOrder).toEqual(shuffleLetters(base, () => 0));
+    expect(firstOrder).toEqual(buildPalette(demoVerb.root, () => 0));
     ctl.v = 0.99;
     await failTwice(user);
     await next(user);
     const secondOrder = letters();
-    expect(secondOrder).toEqual(shuffleLetters(base, () => 0.99));
+    expect(secondOrder).toEqual(buildPalette(demoVerb.root, () => 0.99));
     expect(secondOrder).not.toEqual(firstOrder);
   });
 });

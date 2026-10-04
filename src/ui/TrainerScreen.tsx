@@ -7,9 +7,7 @@ import { builderReducer, emptyState } from './builder';
 import { stripMarks } from './plain';
 import { PRONOUNS, pronounText } from './pronouns';
 import { formatDictionaryRef, formatRuleRef, primarySource } from './refs';
-import { shuffleLetters } from './shuffle';
-
-const EXTRA_LETTERS = ['ت', 'ن', 'و', 'ا', 'م'];
+import { buildPalette } from './palette';
 
 // Знаки показываются на пунктирном кружке; названия по-русски для доступности.
 const DOTTED_CIRCLE = '\u25cc';
@@ -38,7 +36,7 @@ export function TrainerScreen({ verb, pronoun, ruleSources, mode = 'vowelled', r
   const expected = conjugatePast(verb, pronoun);
   const answering = attempt.phase === 'answering';
   // Порядок букв случайный один раз на задание (экран перемонтируется на каждое задание).
-  const [letters] = useState(() => shuffleLetters([...new Set([...verb.root, ...EXTRA_LETTERS])], random));
+  const [letters] = useState(() => buildPalette(verb.root, random));
   const status =
     attempt.phase === 'solved' ? 'ok' : attempt.phase === 'revealed' ? 'revealed' : attempt.wrong ? 'wrong' : 'idle';
   const plain = mode === 'plain';

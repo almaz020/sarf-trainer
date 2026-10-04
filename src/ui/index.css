@@ -156,17 +156,17 @@ button { max-width: 100%; }
 .trainer, .gate {
   max-width: 520px;
   margin: 0 auto;
-  padding: 8px 16px 0;
+  padding: 6px 16px 0;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 6px;
 }
 .gate { padding: 16px; gap: 16px; }
 .trainer > * { min-width: 0; }
 
 .arabic { font-family: 'Amiri', 'Noto Naskh Arabic', serif; line-height: 1.9; }
-.big { font-size: clamp(2.2rem, 9vw, 3rem); text-align: center; }
-.pronoun { font-size: clamp(1.8rem, 7vw, 2.2rem); text-align: center; }
+.big { font-size: clamp(2rem, 8vw, 2.6rem); text-align: center; }
+.pronoun { font-size: clamp(1.6rem, 6.5vw, 2rem); text-align: center; }
 .pronoun-desc { text-align: center; color: var(--muted); font-size: 0.9rem; }
 .ref { margin: 0; text-align: center; font-size: 0.72rem; color: var(--muted); }
 .ref-slot { height: 2.3rem; display: flex; align-items: center; justify-content: center; overflow: hidden; }
@@ -181,10 +181,10 @@ button { max-width: 100%; }
 }
 .trainer[data-status='ok'] .answer { border-color: var(--ok); }
 .trainer[data-status='wrong'] .answer, .trainer[data-status='revealed'] .answer { border-color: var(--bad); }
-.tiles { display: flex; flex-wrap: nowrap; gap: 6px; height: 64px; align-items: center; overflow-x: auto; overflow-y: hidden; }
+.tiles { display: flex; flex-wrap: nowrap; gap: 6px; height: 58px; align-items: center; overflow-x: auto; overflow-y: hidden; }
 .tile {
   flex: 0 1 44px;
-  height: 56px;
+  height: 50px;
   min-width: 28px;
   padding: 0 4px;
   display: inline-flex;
@@ -200,10 +200,10 @@ button { max-width: 100%; }
 }
 .tile[aria-pressed='true'] { background: var(--sel); border-color: var(--accent); }
 .preview {
-  margin-top: 6px;
-  height: 3.6rem;
-  font-size: 2rem;
-  line-height: 1.8;
+  margin-top: 4px;
+  height: 3.2rem;
+  font-size: 1.9rem;
+  line-height: 1.7;
   text-align: center;
   border-top: 1px dashed var(--line);
   overflow: hidden;
@@ -213,7 +213,7 @@ button { max-width: 100%; }
 .palette.is-hidden { visibility: hidden; }
 .key {
   min-width: 40px;
-  min-height: 44px;
+  min-height: 40px;
   padding: 0 8px;
   font: inherit;
   font-size: 1.5rem;
@@ -231,15 +231,15 @@ button { max-width: 100%; }
   position: sticky;
   bottom: 0;
   display: grid;
-  min-height: 64px;
-  padding: 6px 0 calc(6px + env(safe-area-inset-bottom));
+  min-height: 56px;
+  padding: 4px 0 calc(4px + env(safe-area-inset-bottom));
   background: var(--bg);
 }
 .footer > * { grid-area: 1 / 1; }
 .actions { display: flex; flex-wrap: nowrap; gap: 6px; justify-content: center; align-items: center; }
 .trainer[data-status='revealed'] .actions { visibility: hidden; }
 .actions button, .reveal button {
-  min-height: 44px;
+  min-height: 40px;
   padding: 0 10px;
   font: inherit;
   font-size: clamp(0.72rem, 3.5vw, 0.9rem);
@@ -252,7 +252,7 @@ button { max-width: 100%; }
 button.primary { background: var(--accent); color: var(--on-accent); border-color: var(--accent); }
 button:disabled { opacity: 0.45; }
 .reveal { display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 16px; }
-.correct { font-size: 1.9rem; line-height: 1.6; }
+.correct { font-size: 1.8rem; line-height: 1.5; }
 .sr-only {
   position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
   overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;

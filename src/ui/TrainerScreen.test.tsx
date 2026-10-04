@@ -3,10 +3,11 @@ import { afterEach, describe, expect, it, vi } from 'vitest';
 import { cleanup, render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { conjugatePast } from '../engine/conjugate';
-import type { PronounId } from '../engine/paradigm';
+import type { PronounId, Verb } from '../engine/paradigm';
 import { slotsToString, type Haraka } from '../engine/slots';
 import { demoRuleSources, demoVerb } from './demo';
 import { stripMarks } from './plain';
+import { BASE_EXTRA, buildPalette } from './palette';
 import { PRONOUNS, pronounText } from './pronouns';
 import { formatDictionaryRef, formatRuleRef } from './refs';
 import { TrainerScreen } from './TrainerScreen';
@@ -54,19 +55,27 @@ describe('TrainerScreen: отображение', () => {
     expect(screen.getByText('2 л., м. р., мн. ч.')).toBeTruthy();
   });
 
-  it('палитра: буквы корня + ت ن و ا م без дубликатов (корень نصر: ن один раз)', () => {
+  it('палитра: все обязательные буквы, ровно 5 лишних, без дублей (корень نصر)', () => {
     setup();
-    const letters = screen.getAllByTestId(/^letter-/).map((b) => b.textContent);
-    expect(letters).toHaveLength(7);
-    expect([...letters].sort()).toEqual(['ن', 'ص', 'ر', 'ت', 'و', 'ا', 'م'].sort());
+    const letters = letterList();
+    const req = [...new Set([...demoVerb.root, ...BASE_EXTRA])];
+    expect(new Set(letters).size).toBe(letters.length);
+    for (const l of req) expect(letters).toContain(l);
+    expect(letters.filter((l) => !req.includes(l))).toHaveLength(5);
+    expect(letters).toHaveLength(req.length + 5);
   });
 
-  it('палитра: корень كرم и корень كتب не дают дубликатов', () => {
-    render(<TrainerScreen verb={{ ...demoVerb, root: ['ك', 'ر', 'م'] }} pronoun="hum" ruleSources={demoRuleSources} />);
-    expect(letterList().sort()).toEqual(['ك', 'ر', 'م', 'ت', 'ن', 'و', 'ا'].sort());
-    cleanup();
-    render(<TrainerScreen verb={{ ...demoVerb, root: ['ك', 'ت', 'ب'] }} pronoun="hum" ruleSources={demoRuleSources} />);
-    expect(letterList().sort()).toEqual(['ك', 'ت', 'ب', 'ن', 'و', 'ا', 'م'].sort());
+  it('палитра: корни كرم и كتب не дают дубликатов и содержат обязательные', () => {
+    const roots: Verb['root'][] = [['ك', 'ر', 'م'], ['ك', 'ت', 'ب']];
+    for (const root of roots) {
+      render(<TrainerScreen verb={{ ...demoVerb, root }} pronoun="hum" ruleSources={demoRuleSources} />);
+      const letters = letterList();
+      const req = [...new Set([...root, ...BASE_EXTRA])];
+      expect(new Set(letters).size).toBe(letters.length);
+      for (const l of req) expect(letters).toContain(l);
+      expect(letters).toHaveLength(req.length + 5);
+      cleanup();
+    }
   });
 
   it('все знаки есть в палитре знаков', () => {
@@ -84,9 +93,9 @@ describe('TrainerScreen: отображение', () => {
 describe('TrainerScreen: буквы вразнобой', () => {
   const mountWith = (random?: () => number, mode: 'vowelled' | 'plain' = 'vowelled') =>
     render(<TrainerScreen verb={demoVerb} pronoun="antum" ruleSources={demoRuleSources} mode={mode} random={random} />);
-  const SET = ['ن', 'ص', 'ر', 'ت', 'و', 'ا', 'م'];
+  const REQ = [...new Set([...demoVerb.root, ...BASE_EXTRA])];
 
-  it('порядок кнопок зависит от random, набор тот же без дублей', () => {
+  it('порядок и набор зависят от random', () => {
     mountWith(() => 0);
     const l0 = letterList();
     cleanup();
@@ -94,19 +103,22 @@ describe('TrainerScreen: буквы вразнобой', () => {
     const l1 = letterList();
     expect(l0).not.toEqual(l1);
     for (const l of [l0, l1]) {
-      expect(new Set(l).size).toBe(7);
-      expect([...l].sort()).toEqual([...SET].sort());
+      expect(new Set(l).size).toBe(l.length);
+      expect(l).toHaveLength(REQ.length + 5);
+      for (const r of REQ) expect(l).toContain(r);
     }
   });
 
-  it('random=()=>0: известный порядок (сдвиг влево на 1)', () => {
+  it('random=()=>0: набор и порядок равны buildPalette', () => {
     mountWith(() => 0);
-    expect(letterList()).toEqual(['ص', 'ر', 'ت', 'و', 'ا', 'م', 'ن']);
+    expect(letterList()).toEqual(buildPalette(demoVerb.root, () => 0));
   });
 
-  it('без пропа random работает: набор полный', () => {
+  it('без пропа random работает: обязательные буквы на месте', () => {
     mountWith(undefined);
-    expect(letterList().sort()).toEqual([...SET].sort());
+    const l = letterList();
+    for (const r of REQ) expect(l).toContain(r);
+    expect(l).toHaveLength(REQ.length + 5);
   });
 
   it('порядок стабилен при вводе букв', async () => {
