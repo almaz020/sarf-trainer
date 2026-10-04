@@ -1,0 +1,672 @@
+[
+ {
+  "root": "خدم",
+  "expectedVerb": "خَدَمَ",
+  "expectedR2": "fatha",
+  "volume": 1,
+  "printedPage": 221,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "خَدَمَهُ ـُ خِدْمَةً",
+    "vowelR2": "fatha",
+    "gloss": "служить, исполнять чью-то нужду (قام بحاجته); فهو خادم، ج خدم وخدام"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/926, с.89)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(خَدَمَهُ) يَخْدُمُهُ بِالضَّمِّ (خِدْمَةً): прошедшее خَدَمَ огласовано, мудари с даммой; других видов нет; отдельно (خَدَمَتَكُمْ) بفتحتين как имя",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (fatha над د читается на 700 dpi; согласуется с «مختار»)",
+  "notes": "Левая колонка с.221 (низ, после الخدلج). Форма I одна; (أخدمه) IV, (خدّمه) II, (تخدّم) V, (اختدم) VIII, (استخدمه) X не считались. Соседние خَدَلَ (خدل) и т.п. относятся к корню خ-د-ل. Лист 238 (счёт с 0), колонтитул «٢٢١» и «(خَدَم)» совпадают.",
+  "sheet": 238,
+  "pdf": "v1.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/221"
+ },
+ {
+  "root": "نهب",
+  "expectedVerb": "نَهَبَ",
+  "expectedR2": "fatha",
+  "volume": 2,
+  "printedPage": 956,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "نَهَبَ الشيءَ ـَ نَهْباً",
+    "vowelR2": "fatha",
+    "gloss": "захватить силой (أخذه قهرا); ينهب الأرض: быстро идти; нهب الغاية: опередить; نهب الكلب فلانا: схватить за пятку; فهو ناهب، والمفعول منهوب ونهيب"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/3416, с.320)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "в «مختار» нет отдельной строки для глагола с указанием «باب»; в статье стоит огласованное «أَنْهَبَ الرَّجُلُ مَالَهُ (فَانْتَهَبُوهُ) وَ (نَهَبُوهُ) وَ (نَاهَبُوهُ) كُلُّهُ بِمَعْنًى»: (نَهَبُوهُ) = нَهَبَ с fatha R2; корень отдельно (النَّهْبُ) بِوَزْنِ الضَّرْبِ",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high по скану (fatha над ه ясна на 450 dpi); второй источник без указания «باب», но огласованная форма (نَهَبُوهُ) даёт fatha",
+  "notes": "Левая колонка с.956, под (النَّهِيءُ). Форма I одна; (أنهب) IV, (ناهب) III, (انتهب) VIII, (تناهب) VI не считались. Лист 410 (счёт с 0), колонтитул «٩٥٦» совпадает. Id shamela 955 (с.956).",
+  "sheet": 410,
+  "pdf": "v2.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/955"
+ },
+ {
+  "root": "سلب",
+  "expectedVerb": "سَلَبَ",
+  "expectedR2": "fatha",
+  "volume": 1,
+  "printedPage": 440,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "سَلَبَ الشيءَ ـُ سَلْباً",
+    "vowelR2": "fatha",
+    "gloss": "отнять силой (انتزعه قهرا); سلب فلانة فؤادها: пленить; سلب فلانا: ограбить, раздеть; سلب الشجر: ободрать"
+   },
+   {
+    "form": "سَلِبَتِ المرأةُ ـَ سَلَباً",
+    "vowelR2": "kasra",
+    "gloss": "носить траурную одежду (لبست السلاب)"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/1641, с.151)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(سَلَبَ) الشَّيْءَ مِنْ بَابِ نَصَرَ (прошедшее с fatha, мудари ـُ); другого вида нет",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [
+   {
+    "form": "سَلِبَتِ المرأةُ ـَ سَلَباً",
+    "vowelR2": "kasra",
+    "gloss": "носить траурную одежду (لبست السلاب), о женщине; с.441, правая колонка вверху, лист 458"
+   }
+  ],
+  "confidence": "high (fatha над ل читается на 450 dpi; kasra во втором глаголе читается на 450 dpi)",
+  "notes": "Основной заголовок стоит в самом низу левой колонки с.440 (ж.). Второй глагол формы I (سَلِبَتِ المرأةُ) напечатан на с.441 (лист 458) вверху правой колонки; значение другое, редкое. Остальное (أسلب IV, سُلِّبَت II, استلبه X и т.д.) не считалось. Лист 457, колонтитул «٤٤٠» совпадает. Id 440.",
+  "sheet": 457,
+  "pdf": "v1.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/440"
+ },
+ {
+  "root": "قصد",
+  "expectedVerb": "قَصَدَ",
+  "expectedR2": "fatha",
+  "volume": 2,
+  "printedPage": 738,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "قَصَدَ الطريقُ ـِ قَصْداً",
+    "vowelR2": "fatha",
+    "gloss": "быть прямым (استقام); قصد الشاعر: сочинять касыды; قصد له وإليه: направиться (توجه عامدا); قصده؛ قصد في الأمر: быть умеренным; قصد في الحكم: быть справедливым; قصد في النفقة"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/2675, с.254)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(الْقَصْدُ) إِتْيَانُ الشَّيْءِ وَبَابُهُ ضَرَبَ تَقُولُ: (قَصَدَهُ) وَقَصَدَ لَهُ وَقَصَدَ إِلَيْهِ كُلُّهُ بِمَعْنًى وَاحِدٍ (прошедшее قَصَدَ, мудари ـِ); другого вида нет",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (три fatha над ق، ص، د читаются на 900 dpi)",
+  "notes": "Правая колонка с.738 в середине. Форма I одна; (أقصد) IV, (قصّد) II, (اقتصد) VIII, (انقصد) VII, (تقصّد) V не считались. Лист 192, колонтитул «٧٣٨» совпадает. Id shamela 737 (с.738).",
+  "sheet": 192,
+  "pdf": "v2.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/737"
+ },
+ {
+  "root": "نصح",
+  "expectedVerb": "نَصَحَ",
+  "expectedR2": "fatha",
+  "volume": 2,
+  "printedPage": 925,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "نَصَحَ الشيءُ ـَ نَصْحاً ونُصُوحاً ونَصَاحةً",
+    "vowelR2": "fatha",
+    "gloss": "стать чистым, очиститься (خلص); نصح المعدن؛ نصحت توبته؛ نصح قلبه: очиститься от обмана; و ـ الشيء: أخلصه; نصح لفلان: советовать искренне; نصح الثوب ونحوه نصحا: сшить"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/3316, с.311)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(نَصَحَهُ) وَ (نَصَحَ) لَهُ يَنْصَحُ بِالْفَتْحِ فِيهِمَا (نُصْحًا) بِالضَّمِّ وَ (نَصَاحَةً); также (نَصَحَ) الثَّوْبَ خَاطَهُ مِنْ بَابِ قَطَعَ (R2 везде fatha)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (fatha над ص читается на 600 dpi)",
+  "notes": "Средняя колонка с.925 в середине (под (النُّصْتَةُ)). Одна форма I (внутри неё несколько значений, одна огласовка). Остальное (أنصح IV، ناصح III، انتصح VIII، تنصّح V، استنصح X) не считалось. Лист 379, колонтитул «٩٢٥». Id 924 (с.925).",
+  "sheet": 379,
+  "pdf": "v2.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/924"
+ },
+ {
+  "root": "صرخ",
+  "expectedVerb": "صَرَخَ",
+  "expectedR2": "fatha",
+  "volume": 1,
+  "printedPage": 512,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "صَرَخَ ـُ صُرَاخاً وصَريخاً",
+    "vowelR2": "fatha",
+    "gloss": "кричать (صاح صياحا شديدا); و ـ: استغاث"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/1894, с.175)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(الصُّرَاخُ) بِالضَّمِّ الصَّوْتُ وَقَدْ (صَرَخَ) يَصْرُخُ بِالضَّمِّ (صَرْخَةً); других видов нет",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (fatha над ر читается на 600 dpi)",
+  "notes": "Правая колонка с.512 в середине (после (الصَّرِيحُ)). Форма I одна; (أصرخه) IV, (تصرّخ) V, (اصطرخ) VIII, (استصرخه) X не считались. Лист 529, колонтитул «٥١٢». Id 512.",
+  "sheet": 529,
+  "pdf": "v1.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/512"
+ },
+ {
+  "root": "بصق",
+  "expectedVerb": "بَصَقَ",
+  "expectedR2": "fatha",
+  "volume": 1,
+  "printedPage": 60,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "بَصَقَ ـُ بَصْقاً",
+    "vowelR2": "fatha",
+    "gloss": "плевать (لفظ ما في فمه)"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/328, с.35)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(الْبُصَاقُ) الْبُزَاقُ وَقَدْ (بَصَقَ) مِنْ بَابِ نَصَرَ (прошедшее с fatha)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (fatha над ص читается на 600 dpi)",
+  "notes": "Правая колонка с.60 вверху (после (البَصيعُ)). Форма I одна (в shamela-тексте внутри той же статьи значение «و ـ الشاة: حلبها» — та же огласовка). Соседние (بَصَّ)، (بَضِعَ) и т.п. — другие корни. Лист 77, колонтитул «٦٠». Id 60.",
+  "sheet": 77,
+  "pdf": "v1.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/60"
+ },
+ {
+  "root": "غرس",
+  "expectedVerb": "غَرَسَ",
+  "expectedR2": "fatha",
+  "volume": 2,
+  "printedPage": 649,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "غَرَسَ الشجرَ ونحوه ـِ غَرْساً",
+    "vowelR2": "fatha",
+    "gloss": "сажать (أثبته في الأرض); فهو مغروس وغريس وغِرس; غرس فلان عندي نعمة"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/2355, с.226)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(غَرَسَ) الشَّجَرَ مِنْ بَابِ ضَرَبَ (прошедшее с fatha)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (fatha над ر читается на 600 dpi)",
+  "notes": "Средняя колонка с.649 в середине (после (المَغْرِزُ)). Форма I одна; (أغرس) IV, (اغترس) VIII не считались. Соседние غَرَزَ/غَرِزَ (корень غ-ر-ز) и غَرِضَ (غ-ر-ض) — другие корни. Лист 103, колонтитул «٦٤٩». Id 648 (с.649).",
+  "sheet": 103,
+  "pdf": "v2.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/648"
+ },
+ {
+  "root": "حصد",
+  "expectedVerb": "حَصَدَ",
+  "expectedR2": "fatha",
+  "volume": 1,
+  "printedPage": 178,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "حَصَدَ الزرعَ والنباتَ ـُ حَصْداً وحَصاداً",
+    "vowelR2": "fatha",
+    "gloss": "жать, косить (قطعه بالمنجل); و ـ القوم بالسيف: قتلهم واستأصلهم"
+   },
+   {
+    "form": "حَصِدَ الحبلُ ونحوه ـَ حَصَداً",
+    "vowelR2": "kasra",
+    "gloss": "быть туго скрученным, крепким (اشتد فتله أو صنعه); فهو حَصِد وأحصد، وهي حصداء"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/798, с.74)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(حَصَدَ) الزَّرْعَ وَغَيْرَهُ أَيْ قَطَعَهُ وَبَابُهُ ضَرَبَ وَنَصَرَ (мудари ـِ и ـُ; R2 fatha)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [
+   {
+    "form": "حَصِدَ الحبلُ ونحوه ـَ حَصَداً",
+    "vowelR2": "kasra",
+    "gloss": "быть туго скрученным (اشتد فتله)"
+   }
+  ],
+  "confidence": "high (fatha над ص основного глагола читается на 600 dpi; kasra второго читается на 500 dpi)",
+  "notes": "Основной заголовок внизу правой колонки с.178; второй глагол формы I (حَصِدَ الحبلُ) вверху средней колонки той же страницы, другое значение (о верёвке, не о жатве). Производные (أحصد IV، احتصد VIII، استحصد X، تحصّدوا V) не считались. Лист 195, колонтитул «١٧٨». Id 178.",
+  "sheet": 195,
+  "pdf": "v1.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/178"
+ },
+ {
+  "root": "خبز",
+  "expectedVerb": "خَبَزَ",
+  "expectedR2": "fatha",
+  "volume": 1,
+  "printedPage": 215,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "خَبَزَ الخبزَ ـِ خَبْزاً",
+    "vowelR2": "fatha",
+    "gloss": "печь хлеб (صنعه); و ـ القوم: أطعمهم الخبز; و ـ البعير الأرض: ударить землю лапой"
+   },
+   {
+    "form": "خَبِزَ ـَ خَبَزاً",
+    "vowelR2": "kasra",
+    "gloss": "обмякнуть, стать дряблым (о мясе) и всколыхнуться (استرخى لحمه واضطرب)"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/907, с.87)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(خَبَزَ) الْخُبْزَ وَ (اخْتَبَزَهُ). وَ (خَبَزَ) الْقَوْمَ أَطْعَمَهُمُ الْخُبْزَ وَبَابُهُمَا ضَرَبَ (прошедшее с fatha)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [
+   {
+    "form": "خَبِزَ ـَ خَبَزاً",
+    "vowelR2": "kasra",
+    "gloss": "استرخى لحمه واضطرب (редкое, с.215, вверху левой колонки)"
+   }
+  ],
+  "confidence": "high (fatha над ب основного читается на 500 dpi; kasra второго читается, но знак мелкий: medium)",
+  "notes": "Основной заголовок внизу средней колонки с.215; второй глагол формы I (خَبِزَ) вверху левой колонки той же страницы, другое значение. (اختبز VIII، انخبز VII، تخبّزه V) не считались. Лист 232, колонтитул «٢١٥». Id 215.",
+  "sheet": 232,
+  "pdf": "v1.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/215"
+ },
+ {
+  "root": "عصر",
+  "expectedVerb": "عَصَرَ",
+  "expectedR2": "fatha",
+  "volume": 2,
+  "printedPage": 604,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "عَصَرَ الشيءَ ـِ عَصْراً",
+    "vowelR2": "fatha",
+    "gloss": "давить, выжимать (استخرج ما فيه من دهن أو ماء); عصر الثوب؛ عصر الدمل؛ عصر الركض الفرس عرقه؛ عصر الحر العود: أيبسه"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/2219, с.210)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(عَصَرَ) الْعِنَبَ مِنْ بَابِ ضَرَبَ وَ (اعْتَصَرَهُ فَانْعَصَرَ) وَ (تَعَصَّرَ) (прошедшее с fatha)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (fatha над ص читается на 500 dpi)",
+  "notes": "Средняя колонка с.604 вверху (после (المِعْصَدُ)). Форма I одна; (أعصر) IV، (عاصر) III، (عصّر) II، (اعتصر) VIII، (انعصر) VII، (تعصّر) V не считались. Лист 58, колонтитул «٦٠٤». Id 603 (с.604).",
+  "sheet": 58,
+  "pdf": "v2.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/603"
+ },
+ {
+  "root": "مضغ",
+  "expectedVerb": "مَضَغَ",
+  "expectedR2": "fatha",
+  "volume": 2,
+  "printedPage": 874,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "مَضَغَ الطعامَ وغيره ـُ مَضْغاً",
+    "vowelR2": "fatha",
+    "gloss": "жевать (لاكه بأسنانه); هو يمضغ لحم أخيه (مجاز)"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/3127, с.295)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(مَضَغَ) الطَّعَامَ مِنْ بَابِ قَطَعَ وَنَصَرَ (прошедшее с fatha; мудари ـَ и ـُ)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (fatha над ض читается на 500 dpi)",
+  "notes": "Левая колонка с.874 в середине (после (المَضَّةُ)). Форма I одна; (أمضغ) IV، (ماضغ) III، (مضّغ) II не считались. Лист 328, колонтитул «٨٧٤». Id 873 (с.874).",
+  "sheet": 328,
+  "pdf": "v2.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/873"
+ },
+ {
+  "root": "بلع",
+  "expectedVerb": "بَلَعَ",
+  "expectedR2": "fatha",
+  "volume": 1,
+  "printedPage": 69,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "بَلَعَ الماءَ والريقَ ـَ بَلْعاً",
+    "vowelR2": "fatha",
+    "gloss": "глотать (جرعه); فهو بالع وبَلُوع"
+   },
+   {
+    "form": "بَلِعَ ـَ بَلَعاً: بَلَعَ",
+    "vowelR2": "kasra",
+    "gloss": "глотать (то же значение: «بلع»), отдельный заголовок сразу под основным; R2 читается как kasra, но знак мелкий"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/375, с.39)",
+  "secondSourceR2": "kasra",
+  "secondSourceEvidence": "в «مختار» только (بَلِعَ) الشَّيْءَ مِنْ بَابِ فَهِمَ وَ (ابْتَلَعَهُ) وَ (أَبْلَعْتُ) الشَّيْءَ غَيْرِي: kasra, глагола بَلَعَ с fatha в «مختار» нет",
+  "dualVowelSameMeaning": true,
+  "mainConfirmed": false,
+  "otherFormIVerbs": [
+   {
+    "form": "بَلِعَ ـَ بَلَعاً",
+    "vowelR2": "kasra",
+    "gloss": "глотать (то же значение, что и بَلَعَ; два заголовка подряд)"
+   }
+  ],
+  "confidence": "medium (fatha основного и kasra второго читаются на 500-900 dpi, но второй знак мелкий)",
+  "notes": "НА ПЕРЕПРОВЕРКУ ВЛАДЕЛЬЦУ. Для одного значения «глотать» в «الوسيط» с.69 (левая колонка, сразу под (بَلْطَحَ)) два заголовка подряд: (بَلَعَ) الماءَ والريقَ ـَ بَلْعاً (fatha) и (بَلِعَ) ـَ بَلَعاً: بَلَعَ (kasra); «مختار» даёт только kasra («من باب فهم»). То есть и dualVowelSameMeaning, и расхождение источников (второй источник: kasra, ожидалась fatha). (بَلَّعَ) الشيب II и др. не считались. Лист 86, колонтитул «٦٩». Id 69.",
+  "sheet": 86,
+  "pdf": "v1.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/69"
+ },
+ {
+  "root": "مرض",
+  "expectedVerb": "مَرِضَ",
+  "expectedR2": "kasra",
+  "volume": 2,
+  "printedPage": 863,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "مَرِضَ ـَ مَرَضاً",
+    "vowelR2": "kasra",
+    "gloss": "болеть (فسدت صحته فضعف); فهو مريض ومَرِض، وقد يقال مارض"
+   }
+  ],
+  "scanR2ForMain": "kasra",
+  "secondSource": "مختار الصحاح (shamela 23193/3092, с.293)",
+  "secondSourceR2": "kasra",
+  "secondSourceEvidence": "(الْمَرَضُ) السُّقْمُ وَبَابُهُ طَرِبَ (прошедшее مَرِضَ, kasra)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (kasra под ر читается на 500 dpi; ـَ مَرَضاً согласуется)",
+  "notes": "Левая колонка с.863 в середине (после (تَمَرَّصَ)). Форма I одна; (أمرض) IV، (مارض) III، (مرّض) II، (تمارض) VI не считались. Лист 317, колонтитул «٨٦٣». Id 862 (с.863).",
+  "sheet": 317,
+  "pdf": "v2.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/862"
+ },
+ {
+  "root": "فقد",
+  "expectedVerb": "فَقَدَ",
+  "expectedR2": "fatha",
+  "volume": 2,
+  "printedPage": 696,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "فَقَدَ الشيءَ ـِ فَقْداً وفِقْداناً",
+    "vowelR2": "fatha",
+    "gloss": "потерять, лишиться (ضاع منه); فقد الكتاب؛ فقد المال؛ فقد الصديق؛ فقدت المرأة زوجها"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/2543, с.241)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(فَقَدَهُ) مِنْ بَابِ ضَرَبَ وَ (فُقْدَانًا) أَيْضًا أَضَاعَهُ وَعَدِمَهُ (прошедшее с fatha)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (fatha над ق читается на 900 dpi, знак мелкий)",
+  "notes": "Заголовок внизу левой колонки с.696; статья продолжается вверху правой колонки с.697 (лист 151), других глаголов формы I там нет (только (أفقده) IV، (افتقده) VIII، (تفاقد) VI، (تفقّد) V). Лист 150, колонтитул «٦٩٦». Id 695 (с.696).",
+  "sheet": 150,
+  "pdf": "v2.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/695"
+ },
+ {
+  "root": "ظهر",
+  "expectedVerb": "ظَهَرَ",
+  "expectedR2": "fatha",
+  "volume": 2,
+  "printedPage": 578,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "ظَهَرَ الشيءُ ـُ ظُهُوراً",
+    "vowelR2": "fatha",
+    "gloss": "появиться, стать явным (تبين وبرز بعد الخفاء); ظهر على الحائط: взобраться; ظهر على الأمر: узнать; ظهر على عدوه: победить"
+   },
+   {
+    "form": "ظَهِرَ ـَ ظَهَراً",
+    "vowelR2": "kasra",
+    "gloss": "жаловаться на спину (اشتكى ظهره); فهو ظَهِر وظَهِير"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/2130, с.197)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "«وَ (ظَهَرَ) الشَّيْءُ تَبَيَّنَ. وَظَهَرَ عَلَى فُلَانٍ غَلَبَهُ وَبَابُهُمَا خَضَعَ» (прошедшее ظَهَرَ, мудари ـُ); глагола ظَهِرَ в «مختار» нет",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [
+   {
+    "form": "ظَهِرَ ـَ ظَهَراً",
+    "vowelR2": "kasra",
+    "gloss": "اشتكى ظهره (жаловаться на боль в спине); средняя колонка с.578 вверху"
+   }
+  ],
+  "confidence": "high (fatha над ه основного читается на 500 dpi; kasra второго читается на 500 dpi)",
+  "notes": "Основной заголовок внизу правой колонки с.578, второй (ظَهِرَ) вверху средней колонки; значение другое, редкое. (أظهر IV، ظاهر III، ظهّر II، تظاهر VI، استظهر X) не считались. Лист 32, колонтитул «٥٧٨». Id 577. «مختار»: shamela 23193/2130 (с.197), найден после дополнительных запросов к соседним страницам (id 2130 в серии 2125-2136).",
+  "sheet": 32,
+  "pdf": "v2.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/577"
+ },
+ {
+  "root": "بطل",
+  "expectedVerb": "بَطَلَ",
+  "expectedR2": "fatha",
+  "volume": 1,
+  "printedPage": 61,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "بَطَلَ الشيءُ ـُ بُطْلاً وبُطُولاً وبُطْلاناً",
+    "vowelR2": "fatha",
+    "gloss": "пропасть впустую, стать недействительным (ذهب ضياعا؛ فسد وسقط حكمه); و ـ العامل بطالة: تعطل"
+   },
+   {
+    "form": "بَطِلَ في حديثه ـَ بَطالةً",
+    "vowelR2": "kasra",
+    "gloss": "шутить, быть несерьёзным (هزل); فهو بَطِل"
+   },
+   {
+    "form": "بَطُلَ ـُ بُطُولةً",
+    "vowelR2": "damma",
+    "gloss": "быть храбрым, отважным (شجع واستبسل); فهو بَطَل، ج أبطال"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/339, с.36)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "وَقَدْ (بَطَلَ) الشَّيْءُ مِنْ بَابِ دَخَلَ وَ (بُطْلًا) أَيْضًا بِوَزْنِ صُلْحٍ وَ (بُطْلَانًا); также «بَطُلَ الرَّجُلُ مِنْ بَابِ سَهُلَ وَظَرُفَ أَيْ صَارَ شُجَاعًا» (damma, другой глагол); «بَطَلَ الْأَجِيرُ يَبْطُلُ بالضم بَطَالَةً» (fatha, как у основного)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [
+   {
+    "form": "بَطِلَ في حديثه ـَ بَطالةً",
+    "vowelR2": "kasra",
+    "gloss": "هزل (шутить, говорить вздор)"
+   },
+   {
+    "form": "بَطُلَ ـُ بُطُولةً",
+    "vowelR2": "damma",
+    "gloss": "شجع واستبسل (быть храбрым)"
+   }
+  ],
+  "confidence": "high (fatha основного читается на 550 dpi; kasra и damma двух других читаются)",
+  "notes": "Три заголовка формы I подряд в левой колонке с.61 (середина): بَطَلَ (fatha, основной, самый частотный), بَطِلَ (kasra, редкий), بَطُلَ (damma, «быть храбрым», достаточно частотный, но другое значение). Значения разные, dualVowelSameMeaning=false. (أبطل IV، بطّل II، تبطّل V) не считались. Лист 78, колонтитул «٦١». Id 61.",
+  "sheet": 78,
+  "pdf": "v1.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/61"
+ },
+ {
+  "root": "صحب",
+  "expectedVerb": "صَحِبَ",
+  "expectedR2": "kasra",
+  "volume": 1,
+  "printedPage": 507,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "صَحِبَهُ ـَ صَحَابةً وصُحْبةً",
+    "vowelR2": "kasra",
+    "gloss": "сопровождать, быть спутником (رافقه); صحبك الله: да хранит тебя Аллах"
+   }
+  ],
+  "scanR2ForMain": "kasra",
+  "secondSource": "مختار الصحاح (shamela 23193/1873, с.173)",
+  "secondSourceR2": "kasra",
+  "secondSourceEvidence": "(صَحِبَهُ) مِنْ بَابِ سَلِمَ (صَحَابَةً) وَ (صُحْبَةً) أَيْضًا بِالضَّمِّ (прошедшее صَحِبَ, kasra)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (kasra под ح читается на 550 dpi; ـَ صَحَابةً согласуется)",
+  "notes": "Средняя колонка с.507 в середине (после (الصَّبَا)). Форма I одна; (أصحب) IV، (صاحبه) III، (اصطحب) VIII، (تصاحبا) VI، (استصحب) X не считались. Лист 524, колонтитул «٥٠٧». Id 507.",
+  "sheet": 524,
+  "pdf": "v1.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/507"
+ },
+ {
+  "root": "ركض",
+  "expectedVerb": "رَكَضَ",
+  "expectedR2": "fatha",
+  "volume": 1,
+  "printedPage": 369,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "رَكَضَ ـُ رَكْضاً ورَكْضةً",
+    "vowelR2": "fatha",
+    "gloss": "бежать быстро (عدا مسرعا); و ـ: ضرب برجله (ударить ногой); ركض منه: убежать; ركض الطائر: ускорить полёт; النجوم: двигаться"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/1365, с.128)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(الرَّكْضُ) تَحْرِيكُ الرِّجْلِ ... وَبَابُهُ نَصَرَ. وَ (رَكَضَ) الْفَرَسَ بِرِجْلِهِ اسْتَحَثَّهُ; также «رَكَضَ الْفَرَسُ إِذَا عَدَا وَلَيْسَ بِالْأَصْلِ وَالصَّوَابُ رُكِضَ» (замечание касается значения «бежать (о коне)», не огласовки R2)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "medium-high (fatha над ك читается на 550 dpi, но мелко; второй источник явно: «بابه نصر»)",
+  "notes": "Левая колонка с.369 в нижней части (после (المَرْكُوسُ)). Форма I одна; (أركض) IV، (راكض) III، (ارتكض) VIII، (تراكضوا) VI не считались. «مختار» осуждает употребление «ركض الفرس» (бежать) как не исходное — только замечание о значении. Лист 386, колонтитул «٣٦٩». Id 369.",
+  "sheet": 386,
+  "pdf": "v1.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/369"
+ },
+ {
+  "root": "كتم",
+  "expectedVerb": "كَتَمَ",
+  "expectedR2": "fatha",
+  "volume": 2,
+  "printedPage": 776,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "كَتَمَ السقاءُ ـُ كِتَاماً وكُتُوماً",
+    "vowelR2": "fatha",
+    "gloss": "удерживать (о бурдюке: молоко/питьё); و ـ الفرسَ الربوُ كَتْماً: стеснить дыхание; و ـ الشيءَ كَتْماً وكِتْماناً: скрыть, утаить (ستره وأخفاه)"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/2789, с.266)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(كَتَمَ) الشَّيْءَ مِنْ بَابِ نَصَرَ وَ (كِتْمَانًا) أَيْضًا بِالْكَسْرِ (прошедшее с fatha)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (fatha над ت читается на 700 dpi)",
+  "notes": "Средняя колонка с.776 в середине (после (كَتْلُوج)). Основное значение «скрывать» стоит третьим под тем же единственным заголовком формы I. (كاتم) III، (كتّم) II، (اكتتم) VIII، (تكاتم) VI، (استكتمه) X не считались. Лист 230, колонтитул «٧٧٦». Id 775 (с.776).",
+  "sheet": 230,
+  "pdf": "v2.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/775"
+ },
+ {
+  "root": "حبس",
+  "expectedVerb": "حَبَسَ",
+  "expectedR2": "fatha",
+  "volume": 1,
+  "printedPage": 152,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "حَبَسَهُ ـِ حَبْساً",
+    "vowelR2": "fatha",
+    "gloss": "задерживать, лишать свободы, заключать (منعه وأمسكه وسجنه); و ـ الشيء: وقفه (сделать вакфом); حبس نفسه على كذا"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/720, с.65)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(الْحَبْسُ) ضِدُّ التَّخْلِيَةِ وَبَابُهُ ضَرَبَ (прошедшее حَبَسَ, мудари ـِ)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (fatha над ب читается на 550 dpi)",
+  "notes": "Правая колонка с.152 в середине (после (الحَبَرْكَى)). Форма I одна; (أحبسه) IV، (حبّسه) II، (احتبس) VIII، (تحبّس) V не считались. Рядом حَبَشَ، حَبَصَ، حَبَطَ، حَبَقَ — другие корни. Лист 169, колонтитул «١٥٢». Id 152.",
+  "sheet": 169,
+  "pdf": "v1.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/152"
+ },
+ {
+  "root": "ختم",
+  "expectedVerb": "خَتَمَ",
+  "expectedR2": "fatha",
+  "volume": 1,
+  "printedPage": 218,
+  "pageHeaderMatches": true,
+  "articleHeadwordsFormI": [
+   {
+    "form": "خَتَمَ النحلُ ـِ خَتْماً وخِتَاماً",
+    "vowelR2": "fatha",
+    "gloss": "запечатывать, закрывать (о хлебе/сосуде печатью); ختم النحل: наполнить соты мёдом; ختم الله على قلبه؛ ختم القرآن؛ ختم الكتاب"
+   }
+  ],
+  "scanR2ForMain": "fatha",
+  "secondSource": "مختار الصحاح (shamela 23193/915, с.88)",
+  "secondSourceR2": "fatha",
+  "secondSourceEvidence": "(خَتَمَ) الشَّيْءَ مِنْ بَابِ ضَرَبَ فَهُوَ مَخْتُومٌ ... وَ (خَتَمَ) اللَّهُ لَهُ بِخَيْرٍ ... وَخَتَمَ الْقُرْآنَ بَلَغَ آخِرَهُ (прошедшее с fatha)",
+  "dualVowelSameMeaning": false,
+  "mainConfirmed": true,
+  "otherFormIVerbs": [],
+  "confidence": "high (fatha над ت читается на 550 dpi)",
+  "notes": "Заголовок внизу правой колонки с.218, продолжается в средней колонке (значения «запечатать», «закончить»). Форма I одна; (ختّمه) II، (اختتم) VIII، (تختّم) V не считались. Лист 235, колонтитул «٢١٨». Id 218.",
+  "sheet": 235,
+  "pdf": "v1.pdf",
+  "wasitUrl": "https://shamela.ws/book/7028/218"
+ }
+]

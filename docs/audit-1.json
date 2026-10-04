@@ -1,0 +1,22 @@
+[
+ {
+  "id": "zarufa",
+  "root": "ظرف",
+  "volume": "2",
+  "claimedPage": "575",
+  "pageHeaderMatches": true,
+  "articleOnPage": true,
+  "headwordsFormI": [
+   {
+    "form": "ظَرُفَ",
+    "vowelR2": "damma",
+    "gloss": "فلانٌ ظَرْفاً وظَرافةً: كان كيّساً حاذقاً"
+   }
+  ],
+  "auditR2Main": "damma",
+  "readFromScan": true,
+  "confidence": "high",
+  "notes": "Колонтитул ٥٧٥, колонтитул-слово (ظرف). Статья в левой колонке; единственный заголовок формы I (ظَرُفَ), damma над R2 видна чётко; мудари обозначен знаком ـُ.",
+  "sheet": 29
+ }
+]

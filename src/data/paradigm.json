@@ -1,0 +1,390 @@
+{
+  "rules": [
+    {
+      "id": "huwa",
+      "r3Haraka": "fatha",
+      "suffix": [],
+      "sources": [
+        {
+          "role": "primary",
+          "book": "شذا العرف في فن الصرف",
+          "author": "الحملاوي",
+          "edition": "مراجعة وشرح: حجر عاصي، دار الفكر العربي، بيروت، الطبعة الأولى، 1999",
+          "section": "تتمة في حكم الأفعال عند إسنادها إلى الضمائر ونحوها (تنبيه)",
+          "page": "38"
+        },
+        {
+          "role": "check",
+          "book": "A Grammar of the Arabic Language",
+          "author": "W. Wright",
+          "edition": "3rd ed., revised by W. Robertson Smith and M. J. de Goeje, Cambridge: At the University Press, 1896",
+          "section": "Paradigms of the Verbs: First or Simple Form, Table I (Active), Perfect",
+          "volume": "1",
+          "page": "298"
+        }
+      ]
+    },
+    {
+      "id": "hum",
+      "r3Haraka": "damma",
+      "suffix": [
+        {
+          "letter": "و",
+          "shadda": false,
+          "haraka": null
+        },
+        {
+          "letter": "ا",
+          "shadda": false,
+          "haraka": null
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary",
+          "book": "شذا العرف في فن الصرف",
+          "author": "الحملاوي",
+          "edition": "مراجعة وشرح: حجر عاصي، دار الفكر العربي، بيروت، الطبعة الأولى، 1999",
+          "section": "تتمة في حكم الأفعال عند إسنادها إلى الضمائر ونحوها (تنبيه)",
+          "page": "38"
+        },
+        {
+          "role": "check",
+          "book": "A Grammar of the Arabic Language",
+          "author": "W. Wright",
+          "edition": "3rd ed., revised by W. Robertson Smith and M. J. de Goeje, Cambridge: At the University Press, 1896",
+          "section": "Paradigms of the Verbs: First or Simple Form, Table I (Active), Perfect",
+          "volume": "1",
+          "page": "298"
+        }
+      ]
+    },
+    {
+      "id": "hiya",
+      "r3Haraka": "fatha",
+      "suffix": [
+        {
+          "letter": "ت",
+          "shadda": false,
+          "haraka": "sukun"
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary",
+          "book": "شذا العرف في فن الصرف",
+          "author": "الحملاوي",
+          "edition": "مراجعة وشرح: حجر عاصي، دار الفكر العربي، بيروت، الطبعة الأولى، 1999",
+          "section": "تتمة في حكم الأفعال عند إسنادها إلى الضمائر ونحوها (تنبيه)",
+          "page": "38"
+        },
+        {
+          "role": "check",
+          "book": "A Grammar of the Arabic Language",
+          "author": "W. Wright",
+          "edition": "3rd ed., revised by W. Robertson Smith and M. J. de Goeje, Cambridge: At the University Press, 1896",
+          "section": "Paradigms of the Verbs: First or Simple Form, Table I (Active), Perfect",
+          "volume": "1",
+          "page": "298"
+        }
+      ]
+    },
+    {
+      "id": "hunna",
+      "r3Haraka": "sukun",
+      "suffix": [
+        {
+          "letter": "ن",
+          "shadda": false,
+          "haraka": "fatha"
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary",
+          "book": "شذا العرف في فن الصرف",
+          "author": "الحملاوي",
+          "edition": "مراجعة وشرح: حجر عاصي، دار الفكر العربي، بيروت، الطبعة الأولى، 1999",
+          "section": "تتمة في حكم الأفعال عند إسنادها إلى الضمائر ونحوها (تنبيه)",
+          "page": "38"
+        },
+        {
+          "role": "check",
+          "book": "A Grammar of the Arabic Language",
+          "author": "W. Wright",
+          "edition": "3rd ed., revised by W. Robertson Smith and M. J. de Goeje, Cambridge: At the University Press, 1896",
+          "section": "Paradigms of the Verbs: First or Simple Form, Table I (Active), Perfect",
+          "volume": "1",
+          "page": "298"
+        }
+      ]
+    },
+    {
+      "id": "anta",
+      "r3Haraka": "sukun",
+      "suffix": [
+        {
+          "letter": "ت",
+          "shadda": false,
+          "haraka": "fatha"
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary",
+          "book": "شذا العرف في فن الصرف",
+          "author": "الحملاوي",
+          "edition": "مراجعة وشرح: حجر عاصي، دار الفكر العربي، بيروت، الطبعة الأولى، 1999",
+          "section": "تتمة في حكم الأفعال عند إسنادها إلى الضمائر ونحوها (تنبيه)",
+          "page": "38"
+        },
+        {
+          "role": "check",
+          "book": "A Grammar of the Arabic Language",
+          "author": "W. Wright",
+          "edition": "3rd ed., revised by W. Robertson Smith and M. J. de Goeje, Cambridge: At the University Press, 1896",
+          "section": "Paradigms of the Verbs: First or Simple Form, Table I (Active), Perfect",
+          "volume": "1",
+          "page": "298"
+        }
+      ]
+    },
+    {
+      "id": "antum",
+      "r3Haraka": "sukun",
+      "suffix": [
+        {
+          "letter": "ت",
+          "shadda": false,
+          "haraka": "damma"
+        },
+        {
+          "letter": "م",
+          "shadda": false,
+          "haraka": "sukun"
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary",
+          "book": "شذا العرف في فن الصرف",
+          "author": "الحملاوي",
+          "edition": "مراجعة وشرح: حجر عاصي، دار الفكر العربي، بيروت، الطبعة الأولى، 1999",
+          "section": "تتمة في حكم الأفعال عند إسنادها إلى الضمائر ونحوها (تنبيه)",
+          "page": "38"
+        },
+        {
+          "role": "check",
+          "book": "A Grammar of the Arabic Language",
+          "author": "W. Wright",
+          "edition": "3rd ed., revised by W. Robertson Smith and M. J. de Goeje, Cambridge: At the University Press, 1896",
+          "section": "Paradigms of the Verbs: First or Simple Form, Table I (Active), Perfect",
+          "volume": "1",
+          "page": "298"
+        }
+      ]
+    },
+    {
+      "id": "anti",
+      "r3Haraka": "sukun",
+      "suffix": [
+        {
+          "letter": "ت",
+          "shadda": false,
+          "haraka": "kasra"
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary",
+          "book": "شذا العرف في فن الصرف",
+          "author": "الحملاوي",
+          "edition": "مراجعة وشرح: حجر عاصي، دار الفكر العربي، بيروت، الطبعة الأولى، 1999",
+          "section": "تتمة في حكم الأفعال عند إسنادها إلى الضمائر ونحوها (تنبيه)",
+          "page": "38"
+        },
+        {
+          "role": "check",
+          "book": "A Grammar of the Arabic Language",
+          "author": "W. Wright",
+          "edition": "3rd ed., revised by W. Robertson Smith and M. J. de Goeje, Cambridge: At the University Press, 1896",
+          "section": "Paradigms of the Verbs: First or Simple Form, Table I (Active), Perfect",
+          "volume": "1",
+          "page": "298"
+        }
+      ]
+    },
+    {
+      "id": "antunna",
+      "r3Haraka": "sukun",
+      "suffix": [
+        {
+          "letter": "ت",
+          "shadda": false,
+          "haraka": "damma"
+        },
+        {
+          "letter": "ن",
+          "shadda": true,
+          "haraka": "fatha"
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary",
+          "book": "شذا العرف في فن الصرف",
+          "author": "الحملاوي",
+          "edition": "مراجعة وشرح: حجر عاصي، دار الفكر العربي، بيروت، الطبعة الأولى، 1999",
+          "section": "تتمة في حكم الأفعال عند إسنادها إلى الضمائر ونحوها (تنبيه)",
+          "page": "38"
+        },
+        {
+          "role": "check",
+          "book": "A Grammar of the Arabic Language",
+          "author": "W. Wright",
+          "edition": "3rd ed., revised by W. Robertson Smith and M. J. de Goeje, Cambridge: At the University Press, 1896",
+          "section": "Paradigms of the Verbs: First or Simple Form, Table I (Active), Perfect",
+          "volume": "1",
+          "page": "298"
+        }
+      ]
+    },
+    {
+      "id": "ana",
+      "r3Haraka": "sukun",
+      "suffix": [
+        {
+          "letter": "ت",
+          "shadda": false,
+          "haraka": "damma"
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary",
+          "book": "شذا العرف في فن الصرف",
+          "author": "الحملاوي",
+          "edition": "مراجعة وشرح: حجر عاصي، دار الفكر العربي، بيروت، الطبعة الأولى، 1999",
+          "section": "تتمة في حكم الأفعال عند إسنادها إلى الضمائر ونحوها (تنبيه)",
+          "page": "38"
+        },
+        {
+          "role": "check",
+          "book": "A Grammar of the Arabic Language",
+          "author": "W. Wright",
+          "edition": "3rd ed., revised by W. Robertson Smith and M. J. de Goeje, Cambridge: At the University Press, 1896",
+          "section": "Paradigms of the Verbs: First or Simple Form, Table I (Active), Perfect",
+          "volume": "1",
+          "page": "298"
+        }
+      ]
+    },
+    {
+      "id": "nahnu",
+      "r3Haraka": "sukun",
+      "suffix": [
+        {
+          "letter": "ن",
+          "shadda": false,
+          "haraka": "fatha"
+        },
+        {
+          "letter": "ا",
+          "shadda": false,
+          "haraka": null
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary",
+          "book": "شذا العرف في فن الصرف",
+          "author": "الحملاوي",
+          "edition": "مراجعة وشرح: حجر عاصي، دار الفكر العربي، بيروت، الطبعة الأولى، 1999",
+          "section": "تتمة في حكم الأفعال عند إسنادها إلى الضمائر ونحوها (تنبيه)",
+          "page": "38"
+        },
+        {
+          "role": "check",
+          "book": "A Grammar of the Arabic Language",
+          "author": "W. Wright",
+          "edition": "3rd ed., revised by W. Robertson Smith and M. J. de Goeje, Cambridge: At the University Press, 1896",
+          "section": "Paradigms of the Verbs: First or Simple Form, Table I (Active), Perfect",
+          "volume": "1",
+          "page": "298"
+        }
+      ]
+    }
+  ],
+  "conventions": [
+    {
+      "id": "stem",
+      "text": "Основа одинакова во всех формах: R1 + фатха, R2 + огласовка V2 из словаря",
+      "sources": [
+        {
+          "role": "primary",
+          "book": "شذا العرف في فن الصرف",
+          "author": "الحملاوي",
+          "edition": "مراجعة وشرح: حجر عاصي، دار الفكر العربي، بيروت، الطبعة الأولى، 1999",
+          "section": "التقسيم الثالث للفعل: بحسب التجرد والزيادة (أبواب الثلاثي المجرد)",
+          "page": "16"
+        },
+        {
+          "role": "check",
+          "book": "A Grammar of the Arabic Language",
+          "author": "W. Wright",
+          "edition": "3rd ed., revised by W. Robertson Smith and M. J. de Goeje, Cambridge: At the University Press, 1896",
+          "section": "Paradigms of the Verbs: First or Simple Form, Table I (Active), Perfect",
+          "volume": "1",
+          "page": "298"
+        }
+      ]
+    },
+    {
+      "id": "no-sign-on-madd-letters",
+      "text": "Буквы удлинения (و и ا в форме hum, ا в форме nahnu) пишутся без сукуна и без какого-либо знака",
+      "sources": [
+        {
+          "role": "primary",
+          "book": "جامع الدروس العربية",
+          "author": "مصطفى الغلاييني",
+          "edition": "المكتبة العصرية، صيدا - بيروت، الطبعة الثامنة والعشرون، 1414 هـ - 1993 م",
+          "section": "الخط: ما يكتب ولا يلفظ",
+          "volume": "2",
+          "page": "140"
+        },
+        {
+          "role": "check",
+          "book": "A Grammar of the Arabic Language",
+          "author": "W. Wright",
+          "edition": "3rd ed., revised by W. Robertson Smith and M. J. de Goeje, Cambridge: At the University Press, 1896",
+          "section": "§ 7, Rem. a (alif otiosum)",
+          "volume": "1",
+          "page": "11"
+        }
+      ]
+    },
+    {
+      "id": "other-letters-vowelled",
+      "text": "Все остальные буквы огласованы обязательно, включая сукун на конце; шадда встречается только в окончании формы antunna",
+      "sources": [
+        {
+          "role": "primary",
+          "book": "A Grammar of the Arabic Language",
+          "author": "W. Wright",
+          "edition": "3rd ed., revised by W. Robertson Smith and M. J. de Goeje, Cambridge: At the University Press, 1896",
+          "section": "Paradigms of the Verbs: First or Simple Form, Table I (Active), Perfect",
+          "volume": "1",
+          "page": "298"
+        },
+        {
+          "role": "primary",
+          "book": "شذا العرف في فن الصرف",
+          "author": "الحملاوي",
+          "edition": "مراجعة وشرح: حجر عاصي، دار الفكر العربي، بيروت، الطبعة الأولى، 1999",
+          "section": "تتمة في حكم الأفعال عند إسنادها إلى الضمائر ونحوها (تنبيه)",
+          "page": "38"
+        }
+      ]
+    }
+  ]
+}

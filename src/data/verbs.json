@@ -1,0 +1,5861 @@
+[
+  {
+    "id": "nasara",
+    "root": [
+      "ن",
+      "ص",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نصر",
+        "volume": "2",
+        "page": "925"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sami3a",
+    "root": [
+      "س",
+      "م",
+      "ع"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سمع",
+        "volume": "1",
+        "page": "449"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "karuma",
+    "root": [
+      "ك",
+      "ر",
+      "م"
+    ],
+    "midVowel": "damma",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "كرم",
+        "volume": "2",
+        "page": "784"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "fataha",
+    "root": [
+      "ف",
+      "ت",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "فتح",
+        "volume": "2",
+        "page": "671"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "kataba",
+    "root": [
+      "ك",
+      "ت",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "كتب",
+        "volume": "2",
+        "page": "774"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qatala",
+    "root": [
+      "ق",
+      "ت",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قتل",
+        "volume": "2",
+        "page": "715"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "dhahaba",
+    "root": [
+      "ذ",
+      "ه",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ذهب",
+        "volume": "1",
+        "page": "316"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "fahima",
+    "root": [
+      "ف",
+      "ه",
+      "م"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "فهم",
+        "volume": "2",
+        "page": "704"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "shariba",
+    "root": [
+      "ش",
+      "ر",
+      "ب"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "شرب",
+        "volume": "1",
+        "page": "477"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hafiza",
+    "root": [
+      "ح",
+      "ف",
+      "ظ"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حفظ",
+        "volume": "1",
+        "page": "185"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "fariha",
+    "root": [
+      "ف",
+      "ر",
+      "ح"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "فرح",
+        "volume": "2",
+        "page": "679"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sahula",
+    "root": [
+      "س",
+      "ه",
+      "ل"
+    ],
+    "midVowel": "damma",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سهل",
+        "volume": "1",
+        "page": "458"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sa3uba",
+    "root": [
+      "ص",
+      "ع",
+      "ب"
+    ],
+    "midVowel": "damma",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صعب",
+        "volume": "1",
+        "page": "514"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "dakhuma",
+    "root": [
+      "ض",
+      "خ",
+      "م"
+    ],
+    "midVowel": "damma",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ضخم",
+        "volume": "1",
+        "page": "536"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "zarufa",
+    "root": [
+      "ظ",
+      "ر",
+      "ف"
+    ],
+    "midVowel": "damma",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ظرف",
+        "volume": "2",
+        "page": "575"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "shaju3a",
+    "root": [
+      "ش",
+      "ج",
+      "ع"
+    ],
+    "midVowel": "damma",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "شجع",
+        "volume": "1",
+        "page": "473"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "dakhala",
+    "root": [
+      "د",
+      "خ",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "دخل",
+        "volume": "1",
+        "page": "275"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jalasa",
+    "root": [
+      "ج",
+      "ل",
+      "س"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جلس",
+        "volume": "1",
+        "page": "130"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sajada",
+    "root": [
+      "س",
+      "ج",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سجد",
+        "volume": "1",
+        "page": "416"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "raja3a",
+    "root": [
+      "ر",
+      "ج",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رجع",
+        "volume": "1",
+        "page": "331"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "talaba",
+    "root": [
+      "ط",
+      "ل",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "طلب",
+        "volume": "2",
+        "page": "561"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hamala",
+    "root": [
+      "ح",
+      "م",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حمل",
+        "volume": "1",
+        "page": "199"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "bahatha",
+    "root": [
+      "ب",
+      "ح",
+      "ث"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "بحث",
+        "volume": "1",
+        "page": "40"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "shakara",
+    "root": [
+      "ش",
+      "ك",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "شكر",
+        "volume": "1",
+        "page": "490"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "dhakara",
+    "root": [
+      "ذ",
+      "ك",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ذكر",
+        "volume": "1",
+        "page": "313"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rasama",
+    "root": [
+      "ر",
+      "س",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رسم",
+        "volume": "1",
+        "page": "345"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "saraqa",
+    "root": [
+      "س",
+      "ر",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سرق",
+        "volume": "1",
+        "page": "427"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "razaqa",
+    "root": [
+      "ر",
+      "ز",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رزق",
+        "volume": "1",
+        "page": "342"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ghafara",
+    "root": [
+      "غ",
+      "ف",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "غفر",
+        "volume": "2",
+        "page": "656"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sabara",
+    "root": [
+      "ص",
+      "ب",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صبر",
+        "volume": "1",
+        "page": "505"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "nazara",
+    "root": [
+      "ن",
+      "ظ",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نظر",
+        "volume": "2",
+        "page": "932"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ba3atha",
+    "root": [
+      "ب",
+      "ع",
+      "ث"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "بعث",
+        "volume": "1",
+        "page": "62"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "zara3a",
+    "root": [
+      "ز",
+      "ر",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "زرع",
+        "volume": "1",
+        "page": "392"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jama3a",
+    "root": [
+      "ج",
+      "م",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جمع",
+        "volume": "1",
+        "page": "134"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "dafa3a",
+    "root": [
+      "د",
+      "ف",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "دفع",
+        "volume": "1",
+        "page": "289"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "nafa3a",
+    "root": [
+      "ن",
+      "ف",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نفع",
+        "volume": "2",
+        "page": "942"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sana3a",
+    "root": [
+      "ص",
+      "ن",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صنع",
+        "volume": "1",
+        "page": "525"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ghasala",
+    "root": [
+      "غ",
+      "س",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "غسل",
+        "volume": "2",
+        "page": "652"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "kasara",
+    "root": [
+      "ك",
+      "س",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "كسر",
+        "volume": "2",
+        "page": "787"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hazama",
+    "root": [
+      "ه",
+      "ز",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "هزم",
+        "volume": "2",
+        "page": "985"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "malaka",
+    "root": [
+      "م",
+      "ل",
+      "ك"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ملك",
+        "volume": "2",
+        "page": "886"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rahima",
+    "root": [
+      "ر",
+      "ح",
+      "م"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رحم",
+        "volume": "1",
+        "page": "335"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "nadima",
+    "root": [
+      "ن",
+      "د",
+      "م"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ندم",
+        "volume": "2",
+        "page": "911"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ghadiba",
+    "root": [
+      "غ",
+      "ض",
+      "ب"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "غضب",
+        "volume": "2",
+        "page": "654"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rabiha",
+    "root": [
+      "ر",
+      "ب",
+      "ح"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ربح",
+        "volume": "1",
+        "page": "322"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "dahika",
+    "root": [
+      "ض",
+      "ح",
+      "ك"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ضحك",
+        "volume": "1",
+        "page": "535"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "salima",
+    "root": [
+      "س",
+      "ل",
+      "م"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سلم",
+        "volume": "1",
+        "page": "446"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3atisha",
+    "root": [
+      "ع",
+      "ط",
+      "ش"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عطش",
+        "volume": "2",
+        "page": "608"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jahila",
+    "root": [
+      "ج",
+      "ه",
+      "ل"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جهل",
+        "volume": "1",
+        "page": "143"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "khajila",
+    "root": [
+      "خ",
+      "ج",
+      "ل"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "خجل",
+        "volume": "1",
+        "page": "219"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "kasila",
+    "root": [
+      "ك",
+      "س",
+      "ل"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "كسل",
+        "volume": "2",
+        "page": "788"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "shabi3a",
+    "root": [
+      "ش",
+      "ب",
+      "ع"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "شبع",
+        "volume": "1",
+        "page": "470"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hamida",
+    "root": [
+      "ح",
+      "م",
+      "د"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حمد",
+        "volume": "1",
+        "page": "196"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3amila",
+    "root": [
+      "ع",
+      "م",
+      "ل"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عمل",
+        "volume": "2",
+        "page": "628"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sakhira",
+    "root": [
+      "س",
+      "خ",
+      "ر"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سخر",
+        "volume": "1",
+        "page": "421"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sabaqa",
+    "root": [
+      "س",
+      "ب",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سبق",
+        "volume": "1",
+        "page": "414"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sarafa",
+    "root": [
+      "ص",
+      "ر",
+      "ف"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صرف",
+        "volume": "1",
+        "page": "513"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "dhabaha",
+    "root": [
+      "ذ",
+      "ب",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ذبح",
+        "volume": "1",
+        "page": "309"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ghalaba",
+    "root": [
+      "غ",
+      "ل",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "غلب",
+        "volume": "2",
+        "page": "657"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "tarada",
+    "root": [
+      "ط",
+      "ر",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "طرد",
+        "volume": "2",
+        "page": "553"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "halaba",
+    "root": [
+      "ح",
+      "ل",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حلب",
+        "volume": "1",
+        "page": "191"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sadaqa",
+    "root": [
+      "ص",
+      "د",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صدق",
+        "volume": "1",
+        "page": "510"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qabada",
+    "root": [
+      "ق",
+      "ب",
+      "ض"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قبض",
+        "volume": "2",
+        "page": "711"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "lamasa",
+    "root": [
+      "ل",
+      "م",
+      "س"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "لمس",
+        "volume": "2",
+        "page": "838"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sabaha",
+    "root": [
+      "س",
+      "ب",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سبح",
+        "volume": "1",
+        "page": "412"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "madaha",
+    "root": [
+      "م",
+      "د",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "مدح",
+        "volume": "2",
+        "page": "857"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "raqasa",
+    "root": [
+      "ر",
+      "ق",
+      "ص"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رقص",
+        "volume": "1",
+        "page": "364"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "kasaba",
+    "root": [
+      "ك",
+      "س",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "كسب",
+        "volume": "2",
+        "page": "786"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hasada",
+    "root": [
+      "ح",
+      "س",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حسد",
+        "volume": "1",
+        "page": "172"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "lahiqa",
+    "root": [
+      "ل",
+      "ح",
+      "ق"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "لحق",
+        "volume": "2",
+        "page": "818"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ghariqa",
+    "root": [
+      "غ",
+      "ر",
+      "ق"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "غرق",
+        "volume": "2",
+        "page": "650"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3ajiba",
+    "root": [
+      "ع",
+      "ج",
+      "ب"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عجب",
+        "volume": "2",
+        "page": "584"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "daraba",
+    "root": [
+      "ض",
+      "ر",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ضرب",
+        "volume": "1",
+        "page": "536"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "kharaja",
+    "root": [
+      "خ",
+      "ر",
+      "ج"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "خرج",
+        "volume": "1",
+        "page": "224"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "alima",
+    "root": [
+      "ع",
+      "ل",
+      "م"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "علم",
+        "volume": "2",
+        "page": "624"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "kabura",
+    "root": [
+      "ك",
+      "ب",
+      "ر"
+    ],
+    "midVowel": "damma",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "كبر",
+        "volume": "2",
+        "page": "772"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "saghura",
+    "root": [
+      "ص",
+      "غ",
+      "ر"
+    ],
+    "midVowel": "damma",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صغر",
+        "volume": "1",
+        "page": "515"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sharufa",
+    "root": [
+      "ش",
+      "ر",
+      "ف"
+    ],
+    "midVowel": "damma",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "شرف",
+        "volume": "1",
+        "page": "479"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "thaqula",
+    "root": [
+      "ث",
+      "ق",
+      "ل"
+    ],
+    "midVowel": "damma",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ثقل",
+        "volume": "1",
+        "page": "98"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "kathura",
+    "root": [
+      "ك",
+      "ث",
+      "ر"
+    ],
+    "midVowel": "damma",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "كثر",
+        "volume": "2",
+        "page": "777"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qabuha",
+    "root": [
+      "ق",
+      "ب",
+      "ح"
+    ],
+    "midVowel": "damma",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قبح",
+        "volume": "2",
+        "page": "710"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hakama",
+    "root": [
+      "ح",
+      "ك",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حكم",
+        "volume": "1",
+        "page": "190"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "zalama",
+    "root": [
+      "ظ",
+      "ل",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ظلم",
+        "volume": "2",
+        "page": "577"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qadima",
+    "root": [
+      "ق",
+      "د",
+      "م"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قدم",
+        "volume": "2",
+        "page": "719"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qata3a",
+    "root": [
+      "ق",
+      "ط",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قطع",
+        "volume": "2",
+        "page": "745"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "mana3a",
+    "root": [
+      "م",
+      "ن",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "منع",
+        "volume": "2",
+        "page": "888"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rafa3a",
+    "root": [
+      "ر",
+      "ف",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رفع",
+        "volume": "1",
+        "page": "360"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "nazala",
+    "root": [
+      "ن",
+      "ز",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نزل",
+        "volume": "2",
+        "page": "915"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hafara",
+    "root": [
+      "ح",
+      "ف",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حفر",
+        "volume": "1",
+        "page": "184"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "la3iba",
+    "root": [
+      "ل",
+      "ع",
+      "ب"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "لعب",
+        "volume": "2",
+        "page": "827"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "lubisa",
+    "root": [
+      "ل",
+      "ب",
+      "س"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "لبس",
+        "volume": "2",
+        "page": "812"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3arafa",
+    "root": [
+      "ع",
+      "ر",
+      "ف"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عرف",
+        "volume": "2",
+        "page": "595"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "farada",
+    "root": [
+      "ف",
+      "ر",
+      "ض"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "فرض",
+        "volume": "2",
+        "page": "682"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "khataba",
+    "root": [
+      "خ",
+      "ط",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "خطب",
+        "volume": "1",
+        "page": "242"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "dabata",
+    "root": [
+      "ض",
+      "ب",
+      "ط"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ضبط",
+        "volume": "1",
+        "page": "533"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sahaba",
+    "root": [
+      "س",
+      "ح",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سحب",
+        "volume": "1",
+        "page": "418"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ta3iba",
+    "root": [
+      "ت",
+      "ع",
+      "ب"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "تعب",
+        "volume": "1",
+        "page": "85"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "nashita",
+    "root": [
+      "ن",
+      "ش",
+      "ط"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نشط",
+        "volume": "2",
+        "page": "922"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "tabakha",
+    "root": [
+      "ط",
+      "ب",
+      "خ"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "طبخ",
+        "volume": "2",
+        "page": "549"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "nashara",
+    "root": [
+      "ن",
+      "ش",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نشر",
+        "volume": "2",
+        "page": "921"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "masaha",
+    "root": [
+      "م",
+      "س",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "مسح",
+        "volume": "2",
+        "page": "867"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3aqada",
+    "root": [
+      "ع",
+      "ق",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عقد",
+        "volume": "2",
+        "page": "613"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "naqala",
+    "root": [
+      "ن",
+      "ق",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نقل",
+        "volume": "2",
+        "page": "949"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "fashila",
+    "root": [
+      "ف",
+      "ش",
+      "ل"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "فشل",
+        "volume": "2",
+        "page": "690"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "kadhaba",
+    "root": [
+      "ك",
+      "ذ",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "كذب",
+        "volume": "2",
+        "page": "780"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sharaha",
+    "root": [
+      "ش",
+      "ر",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "شرح",
+        "volume": "1",
+        "page": "477"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "haraba",
+    "root": [
+      "ه",
+      "ر",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "هرب",
+        "volume": "2",
+        "page": "980"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "lazima",
+    "root": [
+      "ل",
+      "ز",
+      "م"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "لزم",
+        "volume": "2",
+        "page": "823"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "faraqa",
+    "root": [
+      "ف",
+      "ر",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "فرق",
+        "volume": "2",
+        "page": "685"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "najaha",
+    "root": [
+      "ن",
+      "ج",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نجح",
+        "volume": "2",
+        "page": "901"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rajaha",
+    "root": [
+      "ر",
+      "ج",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رجح",
+        "volume": "1",
+        "page": "329"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sa3ida",
+    "root": [
+      "ص",
+      "ع",
+      "د"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صعد",
+        "volume": "1",
+        "page": "514"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "habata",
+    "root": [
+      "ه",
+      "ب",
+      "ط"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "هبط",
+        "volume": "2",
+        "page": "969"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "saqata",
+    "root": [
+      "س",
+      "ق",
+      "ط"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سقط",
+        "volume": "1",
+        "page": "435"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sakaba",
+    "root": [
+      "س",
+      "ك",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سكب",
+        "volume": "1",
+        "page": "437"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "balagha",
+    "root": [
+      "ب",
+      "ل",
+      "غ"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "بلغ",
+        "volume": "1",
+        "page": "69"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jaraha",
+    "root": [
+      "ج",
+      "ر",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جرح",
+        "volume": "1",
+        "page": "115"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "fa3ala",
+    "root": [
+      "ف",
+      "ع",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "فعل",
+        "volume": "2",
+        "page": "695"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "kashafa",
+    "root": [
+      "ك",
+      "ش",
+      "ف"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "كشف",
+        "volume": "2",
+        "page": "788"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3azala",
+    "root": [
+      "ع",
+      "ز",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عزل",
+        "volume": "2",
+        "page": "599"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rabata",
+    "root": [
+      "ر",
+      "ب",
+      "ط"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ربط",
+        "volume": "1",
+        "page": "323"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jadhaba",
+    "root": [
+      "ج",
+      "ذ",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جذب",
+        "volume": "1",
+        "page": "112"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "halafa",
+    "root": [
+      "ح",
+      "ل",
+      "ف"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حلف",
+        "volume": "1",
+        "page": "192"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "khadama",
+    "root": [
+      "خ",
+      "د",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "خدم",
+        "volume": "1",
+        "page": "221"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "nahaba",
+    "root": [
+      "ن",
+      "ه",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نهب",
+        "volume": "2",
+        "page": "956"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "salaba",
+    "root": [
+      "س",
+      "ل",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سلب",
+        "volume": "1",
+        "page": "440"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qasada",
+    "root": [
+      "ق",
+      "ص",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قصد",
+        "volume": "2",
+        "page": "738"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "nasaha",
+    "root": [
+      "ن",
+      "ص",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نصح",
+        "volume": "2",
+        "page": "925"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sarakha",
+    "root": [
+      "ص",
+      "ر",
+      "خ"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صرخ",
+        "volume": "1",
+        "page": "512"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "basaqa",
+    "root": [
+      "ب",
+      "ص",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "بصق",
+        "volume": "1",
+        "page": "60"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "gharasa",
+    "root": [
+      "غ",
+      "ر",
+      "س"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "غرس",
+        "volume": "2",
+        "page": "649"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hasada2",
+    "root": [
+      "ح",
+      "ص",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حصد",
+        "volume": "1",
+        "page": "178"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "khabaza",
+    "root": [
+      "خ",
+      "ب",
+      "ز"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "خبز",
+        "volume": "1",
+        "page": "215"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3asara",
+    "root": [
+      "ع",
+      "ص",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عصر",
+        "volume": "2",
+        "page": "604"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "madagha",
+    "root": [
+      "م",
+      "ض",
+      "غ"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "مضغ",
+        "volume": "2",
+        "page": "874"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "marida",
+    "root": [
+      "م",
+      "ر",
+      "ض"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "مرض",
+        "volume": "2",
+        "page": "863"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "faqada",
+    "root": [
+      "ف",
+      "ق",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "فقد",
+        "volume": "2",
+        "page": "696"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "zahara",
+    "root": [
+      "ظ",
+      "ه",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ظهر",
+        "volume": "2",
+        "page": "578"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "batala",
+    "root": [
+      "ب",
+      "ط",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "بطل",
+        "volume": "1",
+        "page": "61"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sahiba",
+    "root": [
+      "ص",
+      "ح",
+      "ب"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صحب",
+        "volume": "1",
+        "page": "507"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rakada",
+    "root": [
+      "ر",
+      "ك",
+      "ض"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ركض",
+        "volume": "1",
+        "page": "369"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "katama",
+    "root": [
+      "ك",
+      "ت",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "كتم",
+        "volume": "2",
+        "page": "776"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "habasa",
+    "root": [
+      "ح",
+      "ب",
+      "س"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حبس",
+        "volume": "1",
+        "page": "152"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "khatama",
+    "root": [
+      "خ",
+      "ت",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ختم",
+        "volume": "1",
+        "page": "218"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jamada",
+    "root": [
+      "ج",
+      "م",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جمد",
+        "volume": "1",
+        "page": "133"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jahada",
+    "root": [
+      "ج",
+      "ه",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جهد",
+        "volume": "1",
+        "page": "142"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "harama",
+    "root": [
+      "ح",
+      "ر",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حرم",
+        "volume": "1",
+        "page": "168"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hasama",
+    "root": [
+      "ح",
+      "س",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حسم",
+        "volume": "1",
+        "page": "173"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "raka3a",
+    "root": [
+      "ر",
+      "ك",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ركع",
+        "volume": "1",
+        "page": "370"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sadara",
+    "root": [
+      "ص",
+      "د",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صدر",
+        "volume": "1",
+        "page": "509"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qabila",
+    "root": [
+      "ق",
+      "ب",
+      "ل"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قبل",
+        "volume": "2",
+        "page": "712"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hadama",
+    "root": [
+      "ه",
+      "د",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "هدم",
+        "volume": "2",
+        "page": "977"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "tala3a",
+    "root": [
+      "ط",
+      "ل",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "طلع",
+        "volume": "2",
+        "page": "562"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "lama3a",
+    "root": [
+      "ل",
+      "م",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "لمع",
+        "volume": "2",
+        "page": "839"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "nabaha",
+    "root": [
+      "ن",
+      "ب",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نبح",
+        "volume": "2",
+        "page": "896"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3athara",
+    "root": [
+      "ع",
+      "ث",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عثر",
+        "volume": "2",
+        "page": "583"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jalada",
+    "root": [
+      "ج",
+      "ل",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جلد",
+        "volume": "1",
+        "page": "129"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "khalata",
+    "root": [
+      "خ",
+      "ل",
+      "ط"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "خلط",
+        "volume": "1",
+        "page": "250"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "lafaza",
+    "root": [
+      "ل",
+      "ف",
+      "ظ"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "لفظ",
+        "volume": "2",
+        "page": "832"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "thaqaba",
+    "root": [
+      "ث",
+      "ق",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ثقب",
+        "volume": "1",
+        "page": "97"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "za3ama",
+    "root": [
+      "ز",
+      "ع",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "زعم",
+        "volume": "1",
+        "page": "394"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "khala3a",
+    "root": [
+      "خ",
+      "ل",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "خلع",
+        "volume": "1",
+        "page": "250"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rasada",
+    "root": [
+      "ر",
+      "ص",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رصد",
+        "volume": "1",
+        "page": "348"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "halaqa",
+    "root": [
+      "ح",
+      "ل",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حلق",
+        "volume": "1",
+        "page": "192"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qalaba",
+    "root": [
+      "ق",
+      "ل",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قلب",
+        "volume": "2",
+        "page": "753"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "naqasa",
+    "root": [
+      "ن",
+      "ق",
+      "ص"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نقص",
+        "volume": "2",
+        "page": "946"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "haratha",
+    "root": [
+      "ح",
+      "ر",
+      "ث"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حرث",
+        "volume": "1",
+        "page": "164"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sabaka",
+    "root": [
+      "س",
+      "ب",
+      "ك"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سبك",
+        "volume": "1",
+        "page": "415"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "safa3a",
+    "root": [
+      "ص",
+      "ف",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صفع",
+        "volume": "1",
+        "page": "516"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "lakama",
+    "root": [
+      "ل",
+      "ك",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "لكم",
+        "volume": "2",
+        "page": "837"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qafaza",
+    "root": [
+      "ق",
+      "ف",
+      "ز"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قفز",
+        "volume": "2",
+        "page": "750"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "nataqa",
+    "root": [
+      "ن",
+      "ط",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نطق",
+        "volume": "2",
+        "page": "931"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "khada3a",
+    "root": [
+      "خ",
+      "د",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "خدع",
+        "volume": "1",
+        "page": "220"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "salaka",
+    "root": [
+      "س",
+      "ل",
+      "ك"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سلك",
+        "volume": "1",
+        "page": "445"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hajama",
+    "root": [
+      "ه",
+      "ج",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "هجم",
+        "volume": "2",
+        "page": "974"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "kanasa",
+    "root": [
+      "ك",
+      "ن",
+      "س"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "كنس",
+        "volume": "2",
+        "page": "800"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "mazaja",
+    "root": [
+      "م",
+      "ز",
+      "ج"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "مزج",
+        "volume": "2",
+        "page": "866"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hashada",
+    "root": [
+      "ح",
+      "ش",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حشد",
+        "volume": "1",
+        "page": "175"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "khadasha",
+    "root": [
+      "خ",
+      "د",
+      "ش"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "خدش",
+        "volume": "1",
+        "page": "220"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "safaqa",
+    "root": [
+      "ص",
+      "ف",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صفق",
+        "volume": "1",
+        "page": "517"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rafada",
+    "root": [
+      "ر",
+      "ف",
+      "ض"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رفض",
+        "volume": "1",
+        "page": "360"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "nahada",
+    "root": [
+      "ن",
+      "ه",
+      "ض"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نهض",
+        "volume": "2",
+        "page": "958"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "labitha",
+    "root": [
+      "ل",
+      "ب",
+      "ث"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "لبث",
+        "volume": "2",
+        "page": "811"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ghatasa",
+    "root": [
+      "غ",
+      "ط",
+      "س"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "غطس",
+        "volume": "2",
+        "page": "655"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ghamasa",
+    "root": [
+      "غ",
+      "م",
+      "س"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "غمس",
+        "volume": "2",
+        "page": "662"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ghamaza",
+    "root": [
+      "غ",
+      "م",
+      "ز"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "غمز",
+        "volume": "2",
+        "page": "661"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "lasa3a",
+    "root": [
+      "ل",
+      "س",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "لسع",
+        "volume": "2",
+        "page": "824"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3adala",
+    "root": [
+      "ع",
+      "د",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عدل",
+        "volume": "2",
+        "page": "588"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "kharaqa",
+    "root": [
+      "خ",
+      "ر",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "خرق",
+        "volume": "1",
+        "page": "229"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "khanaqa",
+    "root": [
+      "خ",
+      "ن",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "خنق",
+        "volume": "1",
+        "page": "260"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qarasa",
+    "root": [
+      "ق",
+      "ر",
+      "ص"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قرص",
+        "volume": "2",
+        "page": "726"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qafala",
+    "root": [
+      "ق",
+      "ف",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قفل",
+        "volume": "2",
+        "page": "752"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "lahama",
+    "root": [
+      "ل",
+      "ح",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "لحم",
+        "volume": "2",
+        "page": "819"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "mashata",
+    "root": [
+      "م",
+      "ش",
+      "ط"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "مشط",
+        "volume": "2",
+        "page": "871"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "matara",
+    "root": [
+      "م",
+      "ط",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "مطر",
+        "volume": "2",
+        "page": "875"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hatafa",
+    "root": [
+      "ه",
+      "ت",
+      "ف"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "هتف",
+        "volume": "2",
+        "page": "971"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "harasa",
+    "root": [
+      "ه",
+      "ر",
+      "س"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "هرس",
+        "volume": "2",
+        "page": "981"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "zajara",
+    "root": [
+      "ز",
+      "ج",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "زجر",
+        "volume": "1",
+        "page": "389"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sadala",
+    "root": [
+      "س",
+      "د",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سدل",
+        "volume": "1",
+        "page": "424"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sharada",
+    "root": [
+      "ش",
+      "ر",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "شرد",
+        "volume": "1",
+        "page": "478"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sara3a",
+    "root": [
+      "ص",
+      "ر",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صرع",
+        "volume": "1",
+        "page": "512"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "dagata",
+    "root": [
+      "ض",
+      "غ",
+      "ط"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ضغط",
+        "volume": "1",
+        "page": "540"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "taraha",
+    "root": [
+      "ط",
+      "ر",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "طرح",
+        "volume": "2",
+        "page": "553"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3arada",
+    "root": [
+      "ع",
+      "ر",
+      "ض"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عرض",
+        "volume": "2",
+        "page": "593"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rakaza",
+    "root": [
+      "ر",
+      "ك",
+      "ز"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ركز",
+        "volume": "1",
+        "page": "369"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ramaza",
+    "root": [
+      "ر",
+      "م",
+      "ز"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رمز",
+        "volume": "1",
+        "page": "372"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rasakha",
+    "root": [
+      "ر",
+      "س",
+      "خ"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رسخ",
+        "volume": "1",
+        "page": "343"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rashaha",
+    "root": [
+      "ر",
+      "ش",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رشح",
+        "volume": "1",
+        "page": "346"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rataba",
+    "root": [
+      "ر",
+      "ت",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رتب",
+        "volume": "1",
+        "page": "326"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sahaqa",
+    "root": [
+      "س",
+      "ح",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سحق",
+        "volume": "1",
+        "page": "420"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "shanaqa",
+    "root": [
+      "ش",
+      "ن",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "شنق",
+        "volume": "1",
+        "page": "496"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "saqala",
+    "root": [
+      "ص",
+      "ق",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صقل",
+        "volume": "1",
+        "page": "518"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "taba3a",
+    "root": [
+      "ط",
+      "ب",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "طبع",
+        "volume": "2",
+        "page": "549"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3akasa",
+    "root": [
+      "ع",
+      "ك",
+      "س"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عكس",
+        "volume": "2",
+        "page": "618"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3azafa",
+    "root": [
+      "ع",
+      "ز",
+      "ف"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عزف",
+        "volume": "2",
+        "page": "598"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ghazala",
+    "root": [
+      "غ",
+      "ز",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "غزل",
+        "volume": "2",
+        "page": "652"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "fahasa",
+    "root": [
+      "ف",
+      "ح",
+      "ص"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "فحص",
+        "volume": "2",
+        "page": "675"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "faraza",
+    "root": [
+      "ف",
+      "ر",
+      "ز"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "فرز",
+        "volume": "2",
+        "page": "680"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qasama",
+    "root": [
+      "ق",
+      "س",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قسم",
+        "volume": "2",
+        "page": "734"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qashara",
+    "root": [
+      "ق",
+      "ش",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قشر",
+        "volume": "2",
+        "page": "736"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "lasiqa",
+    "root": [
+      "ل",
+      "ص",
+      "ق"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "لصق",
+        "volume": "2",
+        "page": "825"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "naza3a",
+    "root": [
+      "ن",
+      "ز",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نزع",
+        "volume": "2",
+        "page": "913"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "nasakha",
+    "root": [
+      "ن",
+      "س",
+      "خ"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نسخ",
+        "volume": "2",
+        "page": "917"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "haraqa",
+    "root": [
+      "ح",
+      "ر",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حرق",
+        "volume": "1",
+        "page": "168"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "batara",
+    "root": [
+      "ب",
+      "ت",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "بتر",
+        "volume": "1",
+        "page": "37"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jarafa",
+    "root": [
+      "ج",
+      "ر",
+      "ف"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جرف",
+        "volume": "1",
+        "page": "118"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hajaza",
+    "root": [
+      "ح",
+      "ج",
+      "ز"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حجز",
+        "volume": "1",
+        "page": "157"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hadhafa",
+    "root": [
+      "ح",
+      "ذ",
+      "ف"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حذف",
+        "volume": "1",
+        "page": "162"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "harasa2",
+    "root": [
+      "ح",
+      "ر",
+      "س"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حرس",
+        "volume": "1",
+        "page": "166"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hasara",
+    "root": [
+      "ح",
+      "ص",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حصر",
+        "volume": "1",
+        "page": "178"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hatama",
+    "root": [
+      "ح",
+      "ط",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حطم",
+        "volume": "1",
+        "page": "183"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "khasafa",
+    "root": [
+      "خ",
+      "س",
+      "ف"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "خسف",
+        "volume": "1",
+        "page": "234"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "da3ama",
+    "root": [
+      "د",
+      "ع",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "دعم",
+        "volume": "1",
+        "page": "286"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rahala",
+    "root": [
+      "ر",
+      "ح",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رحل",
+        "volume": "1",
+        "page": "334"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "zafara",
+    "root": [
+      "ز",
+      "ف",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "زفر",
+        "volume": "1",
+        "page": "395"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sahara",
+    "root": [
+      "س",
+      "ح",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سحر",
+        "volume": "1",
+        "page": "419"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3atafa",
+    "root": [
+      "ع",
+      "ط",
+      "ف"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عطف",
+        "volume": "2",
+        "page": "608"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "fajara",
+    "root": [
+      "ف",
+      "ج",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "فجر",
+        "volume": "2",
+        "page": "674"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "fataqa",
+    "root": [
+      "ف",
+      "ت",
+      "ق"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "فتق",
+        "volume": "2",
+        "page": "672"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qahara",
+    "root": [
+      "ق",
+      "ه",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قهر",
+        "volume": "2",
+        "page": "764"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "nahara",
+    "root": [
+      "ن",
+      "ح",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "نحر",
+        "volume": "2",
+        "page": "906"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "lahaza",
+    "root": [
+      "ل",
+      "ح",
+      "ظ"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "لحظ",
+        "volume": "2",
+        "page": "818"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "qasafa",
+    "root": [
+      "ق",
+      "ص",
+      "ف"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "قصف",
+        "volume": "2",
+        "page": "740"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "bakhasa",
+    "root": [
+      "ب",
+      "خ",
+      "س"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "بخس",
+        "volume": "1",
+        "page": "41"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "basata",
+    "root": [
+      "ب",
+      "س",
+      "ط"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "بسط",
+        "volume": "1",
+        "page": "56"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "batasha",
+    "root": [
+      "ب",
+      "ط",
+      "ش"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "بطش",
+        "volume": "1",
+        "page": "61"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "taraka",
+    "root": [
+      "ت",
+      "ر",
+      "ك"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ترك",
+        "volume": "1",
+        "page": "84"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "talifa",
+    "root": [
+      "ت",
+      "ل",
+      "ف"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "تلف",
+        "volume": "1",
+        "page": "87"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jabara",
+    "root": [
+      "ج",
+      "ب",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جبر",
+        "volume": "1",
+        "page": "104"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jahada2",
+    "root": [
+      "ج",
+      "ح",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جحد",
+        "volume": "1",
+        "page": "107"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jarada",
+    "root": [
+      "ج",
+      "ر",
+      "د"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جرد",
+        "volume": "1",
+        "page": "115"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jazama",
+    "root": [
+      "ج",
+      "ز",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جزم",
+        "volume": "1",
+        "page": "121"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ja3ala",
+    "root": [
+      "ج",
+      "ع",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جعل",
+        "volume": "1",
+        "page": "125"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jalaba",
+    "root": [
+      "ج",
+      "ل",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جلب",
+        "volume": "1",
+        "page": "128"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "janaha",
+    "root": [
+      "ج",
+      "ن",
+      "ح"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جنح",
+        "volume": "1",
+        "page": "139"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "jahara",
+    "root": [
+      "ج",
+      "ه",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "جهر",
+        "volume": "1",
+        "page": "142"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "habaka",
+    "root": [
+      "ح",
+      "ب",
+      "ك"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حبك",
+        "volume": "1",
+        "page": "153"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hajaba",
+    "root": [
+      "ح",
+      "ج",
+      "ب"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حجب",
+        "volume": "1",
+        "page": "156"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hazama2",
+    "root": [
+      "ح",
+      "ز",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حزم",
+        "volume": "1",
+        "page": "170"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "hashara",
+    "root": [
+      "ح",
+      "ش",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "حشر",
+        "volume": "1",
+        "page": "175"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "dabagha",
+    "root": [
+      "د",
+      "ب",
+      "غ"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "دبغ",
+        "volume": "1",
+        "page": "270"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "darasa",
+    "root": [
+      "د",
+      "ر",
+      "س"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "درس",
+        "volume": "1",
+        "page": "279"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "dha3ara",
+    "root": [
+      "ذ",
+      "ع",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "ذعر",
+        "volume": "1",
+        "page": "312"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rajafa",
+    "root": [
+      "ر",
+      "ج",
+      "ف"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رجف",
+        "volume": "1",
+        "page": "331"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "rahiba",
+    "root": [
+      "ر",
+      "ه",
+      "ب"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "رهب",
+        "volume": "1",
+        "page": "376"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "zahama",
+    "root": [
+      "ز",
+      "ح",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "زحم",
+        "volume": "1",
+        "page": "390"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "zakhara",
+    "root": [
+      "ز",
+      "خ",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "زخر",
+        "volume": "1",
+        "page": "391"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "satara",
+    "root": [
+      "س",
+      "ط",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سطر",
+        "volume": "1",
+        "page": "429"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "safara",
+    "root": [
+      "س",
+      "ف",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سفر",
+        "volume": "1",
+        "page": "432"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "salakha",
+    "root": [
+      "س",
+      "ل",
+      "خ"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "سلخ",
+        "volume": "1",
+        "page": "442"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "shatama",
+    "root": [
+      "ش",
+      "ت",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "شتم",
+        "volume": "1",
+        "page": "472"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "shafa3a",
+    "root": [
+      "ش",
+      "ف",
+      "ع"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "شفع",
+        "volume": "1",
+        "page": "487"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "shahida",
+    "root": [
+      "ش",
+      "ه",
+      "د"
+    ],
+    "midVowel": "kasra",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "شهد",
+        "volume": "1",
+        "page": "497"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sabagha",
+    "root": [
+      "ص",
+      "ب",
+      "غ"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صبغ",
+        "volume": "1",
+        "page": "506"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sadama",
+    "root": [
+      "ص",
+      "د",
+      "م"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "صدم",
+        "volume": "1",
+        "page": "511"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "3adhara",
+    "root": [
+      "ع",
+      "ذ",
+      "ر"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "عذر",
+        "volume": "2",
+        "page": "589"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "gharafa",
+    "root": [
+      "غ",
+      "ر",
+      "ف"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "غرف",
+        "volume": "2",
+        "page": "650"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ghafala",
+    "root": [
+      "غ",
+      "ف",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "غفل",
+        "volume": "2",
+        "page": "657"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "fasala",
+    "root": [
+      "ف",
+      "ص",
+      "ل"
+    ],
+    "midVowel": "fatha",
+    "sources": [
+      {
+        "role": "primary",
+        "book": "المعجم الوسيط",
+        "author": "مجمع اللغة العربية بالقاهرة",
+        "edition": "مجمع اللغة العربية بالقاهرة، الطبعة الثانية",
+        "entry": "فصل",
+        "volume": "2",
+        "page": "691"
+      }
+    ],
+    "verified": true
+  }
+]

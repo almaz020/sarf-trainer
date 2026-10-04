@@ -1,0 +1,234 @@
+[
+  {
+    "id": "sahula",
+    "root": [
+      "س",
+      "ه",
+      "ل"
+    ],
+    "midVowelExpected": "damma",
+    "midVowelFound": "damma",
+    "entry": "سهل",
+    "volume": "1",
+    "page": "458",
+    "wasitUrl": "https://shamela.ws/book/7028/458",
+    "scanFile": "المعجم الوسيط - مجمع اللغة العربية 1.pdf",
+    "scanSheet": "лист 475 (с 0), левая колонка",
+    "scanQuote": "(سَهُلَ) ـُ سُهُولَةً: مالَ إلى اللِّين وقَلَّتْ خشونتُه. فهو سَهْلٌ، وهي سَهْلَةٌ",
+    "allFormIVerbsInEntry": [
+      {
+        "form": "سَهُلَ",
+        "vowel": "damma"
+      }
+    ],
+    "unambiguous": true,
+    "scanConfirmed": true,
+    "secondSource": "مختار الصحاح",
+    "secondSourcePage": "156",
+    "secondSourceUrl": "https://shamela.ws/book/23193/1683",
+    "secondSourceQuote": "وَقَدْ سَهُلَ الْمَوْضِعُ بِالضَّمِّ (سُهُولَةً)",
+    "secondSourceConfirmed": true,
+    "suitable": true,
+    "notes": "Единственный глагол формы I под корнем; далее только أَسْهَلَ، سَاهَلَهُ، سَهَّلَهُ и т.д. В مختار الصحاح в статье س هـ ل форма I только سَهُلَ بالضم; также в статье ص ع ب: «صَعُبَ مِنْ بَابِ سَهُلَ». Колонтитул скана «٤٥٨» совпал."
+  },
+  {
+    "id": "sa3uba",
+    "root": [
+      "ص",
+      "ع",
+      "ب"
+    ],
+    "midVowelExpected": "damma",
+    "midVowelFound": "damma",
+    "entry": "صعب",
+    "volume": "1",
+    "page": "514",
+    "wasitUrl": "https://shamela.ws/book/7028/514",
+    "scanFile": "المعجم الوسيط - مجمع اللغة العربية 1.pdf",
+    "scanSheet": "лист 531 (с 0), средняя колонка",
+    "scanQuote": "(صَعُبَ) ـُ صُعُوبَةً: اشتدّ وعَسُرَ. يقال: صَعُبَ الأمرُ، وصَعُبَ الرجلُ، وصَعُبَتِ الدابّةُ",
+    "allFormIVerbsInEntry": [
+      {
+        "form": "صَعُبَ",
+        "vowel": "damma"
+      }
+    ],
+    "unambiguous": true,
+    "scanConfirmed": true,
+    "secondSource": "مختار الصحاح",
+    "secondSourcePage": "176",
+    "secondSourceUrl": "https://shamela.ws/book/23193/1902",
+    "secondSourceQuote": "وَ (صَعُبَ) الْأَمْرُ مِنْ بَابِ سَهُلَ صَارَ (صَعْبًا)",
+    "secondSourceConfirmed": true,
+    "suitable": true,
+    "notes": "Единственный глагол формы I в статье; остальное أَصْعَبَ، صَعَّبَهُ، تَصَعَّبَ، اسْتَصْعَبَ. Колонтитул «٥١٤» совпал. Следующий корень صعد (صَعِدَ) — другой корень."
+  },
+  {
+    "id": "dakhuma",
+    "root": [
+      "ض",
+      "خ",
+      "م"
+    ],
+    "midVowelExpected": "damma",
+    "midVowelFound": "damma",
+    "entry": "ضخم",
+    "volume": "1",
+    "page": "536",
+    "wasitUrl": "https://shamela.ws/book/7028/536",
+    "scanFile": "المعجم الوسيط - مجمع اللغة العربية 1.pdf",
+    "scanSheet": "лист 553 (с 0), правая колонка, верх",
+    "scanQuote": "(ضَخُمَ) ـُ ضَخَامَةً: عَظُمَ وغَلُظَ. فهو ضَخْمٌ، وضَخِيمٌ. (ج) ضِخَامٌ",
+    "allFormIVerbsInEntry": [
+      {
+        "form": "ضَخُمَ",
+        "vowel": "damma"
+      }
+    ],
+    "unambiguous": true,
+    "scanConfirmed": true,
+    "secondSource": "مختار الصحاح",
+    "secondSourcePage": "183",
+    "secondSourceUrl": "https://shamela.ws/book/23193/1990",
+    "secondSourceQuote": "وَقَدْ (ضَخُمَ) مِنْ بَابِ ظَرُفَ",
+    "secondSourceConfirmed": true,
+    "suitable": true,
+    "notes": "Единственный глагол формы I в статье (затем ضَخَّمَهُ). Знак ضمة над خ на скане мелкий, но читается вместе с маркером ـُ; подтверждено مختار الصحاح. Колонтитул «٥٣٦» совпал. В مختار الصحاح упомянут также مصدر ضِخَمًا (не глагол)."
+  },
+  {
+    "id": "kathura",
+    "root": [
+      "ك",
+      "ث",
+      "ر"
+    ],
+    "midVowelExpected": "damma",
+    "midVowelFound": "damma",
+    "entry": "كثر",
+    "volume": "2",
+    "page": "777",
+    "wasitUrl": "https://shamela.ws/book/7028/776",
+    "scanFile": "المعجم الوسيط - مجمع اللغة العربية 2.pdf",
+    "scanSheet": "лист 231 (с 0), правая колонка, низ",
+    "scanQuote": "(كَثَرَهُ) ـُ كَثْراً: غَلَبه في الكَثْرة. فهو كاثِرٌ. يقال: كاثَرُوهُمْ فكَثَرُوهُمْ / (كَثُرَ) الشيءُ ـُ كَثْراً وكَثْرَةً: خلافُ قَلَّ. فهو كَثِرٌ، وكثير، وكُثَار",
+    "allFormIVerbsInEntry": [
+      {
+        "form": "كَثَرَهُ",
+        "vowel": "fatha"
+      },
+      {
+        "form": "كَثُرَ",
+        "vowel": "damma"
+      }
+    ],
+    "unambiguous": false,
+    "scanConfirmed": true,
+    "secondSource": "مختار الصحاح",
+    "secondSourcePage": "266",
+    "secondSourceUrl": "https://shamela.ws/book/23193/2793",
+    "secondSourceQuote": "وَقَدْ (كَثُرَ) يَكْثُرُ بِالضَّمِّ (كَثْرَةً) فَهُوَ (كَثِيرٌ) ... وَ (كَاثَرُوهُمْ فَكَثَرُوهُمْ) مِنْ بَابِ نَصَرَ أَيْ غَلَبُوهُمْ بِالْكَثْرَةِ",
+    "secondSourceConfirmed": true,
+    "suitable": false,
+    "notes": "НЕ ПОДХОДИТ: как в группе C, первым в статье стоит переходный (كَثَرَهُ) ـُ с فتحة на R2 (غلبه في الكثرة), вторым (كَثُرَ). مختار الصحاح тоже даёт كَثَرَ (от باب نَصَرَ). Колонтитул «٧٧٧» совпал; shamela id 776 (т.2: id = стр. - 1)."
+  },
+  {
+    "id": "qabuha",
+    "root": [
+      "ق",
+      "ب",
+      "ح"
+    ],
+    "midVowelExpected": "damma",
+    "midVowelFound": "damma",
+    "entry": "قبح",
+    "volume": "2",
+    "page": "710",
+    "wasitUrl": "https://shamela.ws/book/7028/709",
+    "scanFile": "المعجم الوسيط - مجمع اللغة العربية 2.pdf",
+    "scanSheet": "лист 164 (с 0), правая колонка",
+    "scanQuote": "(قَبَحَ) اللهُ فلاناً ـَ قَبْحاً، وقُبُوحاً: أبعدَه من كلّ خير / (قَبُحَ) الشيءُ ـُ قُبْحاً، وقَباحَةً: ضدّ حَسُنَ",
+    "allFormIVerbsInEntry": [
+      {
+        "form": "قَبَحَ",
+        "vowel": "fatha"
+      },
+      {
+        "form": "قَبُحَ",
+        "vowel": "damma"
+      }
+    ],
+    "unambiguous": false,
+    "scanConfirmed": true,
+    "secondSource": "مختار الصحاح",
+    "secondSourcePage": "246",
+    "secondSourceUrl": "https://shamela.ws/book/23193/2595",
+    "secondSourceQuote": "(الْقُبْحُ) ضِدُّ الْحُسْنِ وَبَابُهُ ظَرُفَ فَهُوَ (قَبِيحٌ). وَ (قَبَحَهُ) اللَّهُ نَحَّاهُ عَنِ الْخَيْرِ وَبَابُهُ قَطَعَ",
+    "secondSourceConfirmed": true,
+    "suitable": false,
+    "notes": "НЕ ПОДХОДИТ: под корнем два глагола формы I: (قَبَحَ) с فتحة (первый, переходный) и (قَبُحَ) с ضمة (второй); مختار الصحاح также даёт قَبَحَهُ (باب قطع) и ظرف. Колонтитул «٧١٠» совпал; shamela id 709."
+  },
+  {
+    "id": "zarufa",
+    "root": [
+      "ظ",
+      "ر",
+      "ف"
+    ],
+    "midVowelExpected": "damma",
+    "midVowelFound": "damma",
+    "entry": "ظرف",
+    "volume": "2",
+    "page": "575",
+    "wasitUrl": "https://shamela.ws/book/7028/574",
+    "scanFile": "المعجم الوسيط - مجمع اللغة العربية 2.pdf",
+    "scanSheet": "лист 29 (с 0), левая колонка",
+    "scanQuote": "(ظَرُفَ) فلانٌ ـُ ظَرْفاً، وظَرَافَةً، فهو ظَرِيفٌ: كان كَيِّساً حاذِقاً",
+    "allFormIVerbsInEntry": [
+      {
+        "form": "ظَرُفَ",
+        "vowel": "damma"
+      }
+    ],
+    "unambiguous": true,
+    "scanConfirmed": true,
+    "secondSource": "مختار الصحاح",
+    "secondSourcePage": "196",
+    "secondSourceUrl": "https://shamela.ws/book/23193/2120",
+    "secondSourceQuote": "وَقَدْ (ظَرُفَ) الرَّجُلُ بِالضَّمِّ (ظَرَافَةً) فَهُوَ (ظَرِيفٌ)",
+    "secondSourceConfirmed": true,
+    "suitable": true,
+    "notes": "Единственный глагол формы I с корнем ظ-ر-ف; (ظَرَّ) ـُ ظَرًّا на той же странице — другой корень ظرر. Далее أَظْرَفَ، ظَارَفَهُ، تَظَارَفَ، تَظَرَّفَ، اسْتَظْرَفَهُ. Колонтитул «٥٧٥» совпал."
+  },
+  {
+    "id": "shaju3a",
+    "root": [
+      "ش",
+      "ج",
+      "ع"
+    ],
+    "midVowelExpected": "damma",
+    "midVowelFound": "damma",
+    "entry": "شجع",
+    "volume": "1",
+    "page": "473",
+    "wasitUrl": "https://shamela.ws/book/7028/473",
+    "scanFile": "المعجم الوسيط - مجمع اللغة العربية 1.pdf",
+    "scanSheet": "лист 490 (с 0), средняя колонка, низ",
+    "scanQuote": "(شَجُعَ) ـُ شَجَاعَةً: قَوِيَ قلبُه واشتدَّ عند البأس، فهو شَجِيعٌ. (ج) شُجَعاء، وشِجاع",
+    "allFormIVerbsInEntry": [
+      {
+        "form": "شَجُعَ",
+        "vowel": "damma"
+      }
+    ],
+    "unambiguous": true,
+    "scanConfirmed": true,
+    "secondSource": "مختار الصحاح",
+    "secondSourcePage": "161",
+    "secondSourceUrl": "https://shamela.ws/book/23193/1739",
+    "secondSourceQuote": "وَقَدْ (شَجُعَ) الرَّجُلُ مِنْ بَابِ ظَرُفَ فَهُوَ (شُجَاعٌ)",
+    "secondSourceConfirmed": true,
+    "suitable": true,
+    "notes": "Единственный глагол формы I (далее شَاجَعَهُ، تَشَجَّعَ). Колонтитул «٤٧٣» совпал. Соседние شَجَّهُ، شَجَرَ، شَجَنَتْ — другие корни (شجج، شجر، شجن)."
+  }
+]

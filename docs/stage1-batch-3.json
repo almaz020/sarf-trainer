@@ -1,0 +1,725 @@
+[
+ {
+  "root": "قدم",
+  "verbs": [
+   {
+    "past": "قَدِمَ",
+    "R2": "kasra",
+    "mudariOrBab": "بالكسر",
+    "meaning": "приехать (из поездки)"
+   },
+   {
+    "past": "قَدَمَ",
+    "R2": "fatha",
+    "mudariOrBab": "يَقْدُمُ كنصر",
+    "meaning": "идти впереди, предшествовать"
+   },
+   {
+    "past": "قَدُمَ",
+    "R2": "damma",
+    "mudariOrBab": "بالضم",
+    "meaning": "быть древним"
+   }
+  ],
+  "unambiguous": false,
+  "midVowelMukhtar": "kasra+fatha+damma",
+  "midVowelSecond": null,
+  "agree": null,
+  "wasit": null,
+  "mukhtarUrl": "https://shamela.ws/book/23193/2625",
+  "mukhtarPage": 249,
+  "mukhtarQuote": "(قَدِمَ) مِنْ سَفَرِهِ بِالْكَسْرِ ... وَ (قَدَمَ) يَقْدُمُ كَنَصَرَ",
+  "secondSource": null,
+  "secondUrl": null,
+  "secondQuote": null,
+  "status": "ambiguous",
+  "notes": "Мухтар: три глагола формы I с разной R2 (قَدِمَ / قَدَمَ / قَدُمَ). Второй источник и Wasit не искались."
+ },
+ {
+  "root": "سعد",
+  "verbs": [
+   {
+    "past": "سَعَدَ",
+    "R2": "fatha",
+    "mudariOrBab": "من باب خضع",
+    "meaning": "быть счастливым (о дне)"
+   },
+   {
+    "past": "سَعِدَ",
+    "R2": "kasra",
+    "mudariOrBab": "من باب سلم",
+    "meaning": "быть счастливым (о человеке)"
+   }
+  ],
+  "unambiguous": false,
+  "midVowelMukhtar": "fatha+kasra",
+  "midVowelSecond": null,
+  "agree": null,
+  "wasit": null,
+  "mukhtarUrl": "https://shamela.ws/book/23193/1606",
+  "mukhtarPage": 148,
+  "mukhtarQuote": "(سَعَدَ) يَوْمُنَا مِنْ بَابِ خَضَعَ ... سَعِدَ الرَّجُلُ مِنْ بَابِ سَلِمَ",
+  "secondSource": null,
+  "secondUrl": null,
+  "secondQuote": null,
+  "status": "ambiguous",
+  "notes": "Мухтар: два глагола с разной R2 (سَعَدَ باب خضع; سَعِدَ باب سلم). Второй источник и Wasit не искались."
+ },
+ {
+  "root": "لبس",
+  "verbs": [
+   {
+    "past": "لَبِسَ",
+    "R2": "kasra",
+    "mudariOrBab": "يَلْبَسُهُ بالفتح",
+    "meaning": "надеть (одежду)"
+   },
+   {
+    "past": "لَبَسَ",
+    "R2": "fatha",
+    "mudariOrBab": "وبابه ضرب",
+    "meaning": "смешать, запутать"
+   }
+  ],
+  "unambiguous": false,
+  "midVowelMukhtar": "kasra+fatha",
+  "midVowelSecond": null,
+  "agree": null,
+  "wasit": null,
+  "mukhtarUrl": "https://shamela.ws/book/23193/2914",
+  "mukhtarPage": 278,
+  "mukhtarQuote": "(لَبِسَ) الثَّوْبَ يَلْبَسُهُ ... وَ (لَبَسَ) عَلَيْهِ الْأَمْرُ خَلَطَ وَبَابُهُ ضَرَبَ",
+  "secondSource": null,
+  "secondUrl": null,
+  "secondQuote": null,
+  "status": "ambiguous",
+  "notes": "Мухтар: два глагола с разной R2 (لَبِسَ одеть; لَبَسَ смешать). Второй источник и Wasit не искались."
+ },
+ {
+  "root": "عرف",
+  "verbs": [
+   {
+    "past": "عَرَفَ",
+    "R2": "fatha",
+    "mudariOrBab": "يَعْرِفُهُ بالكسر",
+    "meaning": "знать, узнать"
+   },
+   {
+    "past": "عَرُفَ",
+    "R2": "damma",
+    "mudariOrBab": "وبابه ظرف",
+    "meaning": "стать начальником (عريفاً)"
+   }
+  ],
+  "unambiguous": false,
+  "midVowelMukhtar": "fatha+damma",
+  "midVowelSecond": null,
+  "agree": null,
+  "wasit": null,
+  "mukhtarUrl": "https://shamela.ws/book/23193/2191",
+  "mukhtarPage": 206,
+  "mukhtarQuote": "(عَرَفَهُ) يَعْرِفُهُ بِالْكَسْرِ ... وَبَابُهُ ظَرُفَ إِذَا صَارَ عَرِيفًا",
+  "secondSource": null,
+  "secondUrl": null,
+  "secondQuote": null,
+  "status": "ambiguous",
+  "notes": "Мухтар: عَرَفَ (fatha) и по 'бابه ظرف' عَرُفَ 'стать عريفом' (damma): два значения с разной R2. Второй источник и Wasit не искались."
+ },
+ {
+  "root": "فسد",
+  "verbs": [
+   {
+    "past": "فَسَدَ",
+    "R2": "fatha",
+    "mudariOrBab": "يَفْسُدُ بالضم",
+    "meaning": "портиться"
+   },
+   {
+    "past": "فَسُدَ",
+    "R2": "damma",
+    "mudariOrBab": "بالضم أيضاً",
+    "meaning": "портиться (вариант)"
+   }
+  ],
+  "unambiguous": false,
+  "midVowelMukhtar": "fatha+damma",
+  "midVowelSecond": null,
+  "agree": null,
+  "wasit": null,
+  "mukhtarUrl": "https://shamela.ws/book/23193/2511",
+  "mukhtarPage": 239,
+  "mukhtarQuote": "(فَسَدَ) الشَّيْءُ يَفْسُدُ بِالضَّمِّ ... وَ (فَسُدَ) بِالضَّمِّ أَيْضًا",
+  "secondSource": null,
+  "secondUrl": null,
+  "secondQuote": null,
+  "status": "ambiguous",
+  "notes": "Мухтар: фатха (فَسَدَ يَفْسُدُ) и дамма (فَسُدَ) с одним значением; R2 разная. Второй источник и Wasit не искались."
+ },
+ {
+  "root": "ركب",
+  "verbs": [],
+  "unambiguous": null,
+  "midVowelMukhtar": null,
+  "midVowelSecond": null,
+  "agree": null,
+  "wasit": null,
+  "mukhtarUrl": "https://shamela.ws/book/23193/1361",
+  "mukhtarPage": 127,
+  "mukhtarQuote": null,
+  "secondSource": null,
+  "secondUrl": null,
+  "secondQuote": null,
+  "status": "not_found",
+  "notes": "В статье Мухтара (ر ك ب) нет глагола формы I (رَكِبَ) с огласовкой: только имена (رَاكِبٌ، الرَّكْبُ، الرِّكَابُ، الْمَرْكَبُ، الرَّكُوبُ) и (ارْتِكَابُ). R2 по Мухтару установить нельзя. Второй источник и Wasit не искались."
+ },
+ {
+  "root": "ضحك",
+  "verbs": [
+   {
+    "past": "ضَحِكَ",
+    "R2": "kasra",
+    "mudariOrBab": "بالكسر (ضِحْكًا)",
+    "meaning": "смеяться"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "kasra",
+  "midVowelSecond": "kasra",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 1,
+   "page": 535,
+   "shamelaId": 535,
+   "shamelaUrl": "https://shamela.ws/book/7028/535",
+   "rootHeadingSeen": "(ضحك)",
+   "rootMentioned": true,
+   "note": "Заголовок (ضحك) виден в тексте страницы shamela (без огласовок, в тексте частично: ضحِكت)."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/1987",
+  "mukhtarPage": 182,
+  "mukhtarQuote": "(ضَحِكَ) بِالْكَسْرِ (ضِحْكًا) بِوَزْنِ عِلْمٍ وَفَهْمٍ",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/1803",
+  "secondPage": 358,
+  "secondVolume": 2,
+  "secondQuote": "ضَحِكَ مِنْ زَيْدٍ وَضَحِكَ بِهِ يَضْحَكُ ضَحِكًا وَضَحْكًا",
+  "status": "candidate"
+ },
+ {
+  "root": "سلم",
+  "verbs": [
+   {
+    "past": "سَلِمَ",
+    "R2": "kasra",
+    "mudariOrBab": "بالكسر (سَلَامَةً)",
+    "meaning": "быть невредимым, спастись"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "kasra",
+  "midVowelSecond": "kasra",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 1,
+   "page": 446,
+   "shamelaId": 446,
+   "shamelaUrl": "https://shamela.ws/book/7028/446",
+   "rootHeadingSeen": "(سلم)",
+   "rootMentioned": true,
+   "note": "Заголовок (سلم) виден в тексте страницы shamela (без огласовок)."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/1654",
+  "mukhtarPage": 153,
+  "mukhtarQuote": "وَ (سَلِمَ) فُلَانٌ مِنَ الْآفَاتِ بِالْكَسْرِ (سَلَامَةً)",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/1473",
+  "secondPage": 286,
+  "secondVolume": 1,
+  "secondQuote": "وَسَلِمَ الْمُسَافِرُ يَسْلَمُ مِنْ بَابِ تَعِبَ سَلَامَةً",
+  "status": "candidate",
+  "notes": "Мисбах: статья идёт со страницы 286 на 287 внутри одной shamela-страницы; другие глаголы формы I под корнем отсутствуют."
+ },
+ {
+  "root": "عطش",
+  "verbs": [
+   {
+    "past": "عَطِشَ",
+    "R2": "kasra",
+    "mudariOrBab": "وبابه طرب",
+    "meaning": "хотеть пить"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "kasra",
+  "midVowelSecond": "kasra",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 2,
+   "page": 608,
+   "shamelaId": 607,
+   "shamelaUrl": "https://shamela.ws/book/7028/607",
+   "rootHeadingSeen": "(عطش)",
+   "rootMentioned": true,
+   "note": "Заголовок (عطش) виден в тексте страницы shamela (без огласовок, частично عَطش). Страница id 607 = печатная стр. 608 (том 2: id = стр. − 1)."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/2236",
+  "mukhtarPage": 212,
+  "mukhtarQuote": "(عَطِشَ) ضِدُّ رَوِيَ وَبَابُهُ طَرِبَ",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/2063",
+  "secondPage": 416,
+  "secondVolume": 2,
+  "secondQuote": "عَطِشَ عَطَشًا فَهُوَ عَطِشٌ وَعَطْشَانُ",
+  "status": "candidate"
+ },
+ {
+  "root": "جهل",
+  "verbs": [
+   {
+    "past": "جَهِلَ",
+    "R2": "kasra",
+    "mudariOrBab": "من باب فهم وسلم",
+    "meaning": "не знать, быть невеждой"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "kasra",
+  "midVowelSecond": "kasra",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 1,
+   "page": 143,
+   "shamelaId": 143,
+   "shamelaUrl": "https://shamela.ws/book/7028/143",
+   "rootHeadingSeen": "(جهل)",
+   "rootMentioned": true,
+   "note": "Заголовок статьи в тексте страницы shamela записан формой с суффиксом (جهلت); корень виден."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/687",
+  "mukhtarPage": 63,
+  "mukhtarQuote": "وَقَدْ (جَهِلَ) مِنْ بَابِ فَهِمَ وَسَلِمَ",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/581",
+  "secondPage": 113,
+  "secondVolume": 1,
+  "secondQuote": "جَهِلْتُ الشَّيْءَ جَهْلًا وَجَهَالَةً خِلَافُ عَلِمْتُهُ وَجَهِلَ عَلَى غَيْرِهِ",
+  "status": "candidate",
+  "notes": "В Мисбахе есть сноска редактора: جَهِل من باب فهِم وسَلِمِ."
+ },
+ {
+  "root": "خجل",
+  "verbs": [
+   {
+    "past": "خَجِلَ",
+    "R2": "kasra",
+    "mudariOrBab": "من باب طرب",
+    "meaning": "смущаться, стыдиться"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "kasra",
+  "midVowelSecond": "kasra",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 1,
+   "page": 219,
+   "shamelaId": 219,
+   "shamelaUrl": "https://shamela.ws/book/7028/219",
+   "rootHeadingSeen": "(خجل)",
+   "rootMentioned": true,
+   "note": "Заголовок (خجل) виден в тексте страницы shamela (без огласовок)."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/919",
+  "mukhtarPage": 88,
+  "mukhtarQuote": "وَقَدْ (خَجِلَ) مِنْ بَابِ طَرِبَ",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/805",
+  "secondPage": 164,
+  "secondVolume": 1,
+  "secondQuote": "خَجِلَ الشَّخْصُ خَجَلًا فَهُوَ خَجِلٌ مِنْ بَابِ تَعِبَ",
+  "status": "candidate"
+ },
+ {
+  "root": "كسل",
+  "verbs": [
+   {
+    "past": "كَسِلَ",
+    "R2": "kasra",
+    "mudariOrBab": "وبابه طرب (в Мухтаре дан масдар الكسل)",
+    "meaning": "лениться"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "kasra",
+  "midVowelSecond": "kasra",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 2,
+   "page": 788,
+   "shamelaId": 787,
+   "shamelaUrl": "https://shamela.ws/book/7028/787",
+   "rootHeadingSeen": "(كسل)",
+   "rootMentioned": true,
+   "note": "Заголовок (كسل) виден в тексте страницы shamela (без огласовок). id 787 = стр. 788 (том 2)."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/2834",
+  "mukhtarPage": 270,
+  "mukhtarQuote": "(الْكَسَلُ) التَّثَاقُلُ عَنِ الْأَمْرِ وَبَابُهُ طَرِبَ",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/2640",
+  "secondPage": 534,
+  "secondVolume": 2,
+  "secondQuote": "كَسِلَ كَسَلًا فَهُوَ كَسِلٌ مِنْ بَابِ تَعِبَ",
+  "status": "candidate",
+  "notes": "В Мухтаре глагол в явном виде не огласован, статья начинается с масдара (الْكَسَلُ) и указания «وبابه طرب» (فَعِلَ)."
+ },
+ {
+  "root": "شبع",
+  "verbs": [
+   {
+    "past": "شَبِعَ",
+    "R2": "kasra",
+    "mudariOrBab": "وبابه طرب",
+    "meaning": "насытиться"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "kasra",
+  "midVowelSecond": "kasra",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 1,
+   "page": 470,
+   "shamelaId": 470,
+   "shamelaUrl": "https://shamela.ws/book/7028/470",
+   "rootHeadingSeen": "(شبع)",
+   "rootMentioned": true,
+   "note": "Заголовок (شبع) виден в тексте страницы shamela (без огласовок)."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/1725",
+  "mukhtarPage": 160,
+  "mukhtarQuote": "يُقَالُ: (شَبِعَ) خُبْزًا وَلَحْمًا ... وَبَابُهُ طَرِبَ",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/1534",
+  "secondPage": 303,
+  "secondVolume": 1,
+  "secondQuote": "شَبِعَ شِبَعًا بِفَتْحِ الْبَاءِ وَسُكُونُهَا تَخْفِيفٌ",
+  "status": "candidate"
+ },
+ {
+  "root": "حمد",
+  "verbs": [
+   {
+    "past": "حَمِدَ",
+    "R2": "kasra",
+    "mudariOrBab": "وبابه فهم (в Мухтаре дан масдар الحمد)",
+    "meaning": "хвалить"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "kasra",
+  "midVowelSecond": "kasra",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 1,
+   "page": 196,
+   "shamelaId": 196,
+   "shamelaUrl": "https://shamela.ws/book/7028/196",
+   "rootHeadingSeen": "(حمد)",
+   "rootMentioned": true,
+   "note": "Заголовок (حمده) виден в тексте страницы shamela (форма с суффиксом ه)."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/851",
+  "mukhtarPage": 80,
+  "mukhtarQuote": "(الْحَمْدُ) ضِدُّ الذَّمِّ وَبَابُهُ فَهِمَ",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/740",
+  "secondPage": 149,
+  "secondVolume": 1,
+  "secondQuote": "حَمِدْتُهُ عَلَى شَجَاعَتِهِ وَإِحْسَانِهِ حَمْدًا أَثْنَيْتُ عَلَيْهِ",
+  "status": "candidate",
+  "notes": "В Мухтаре глагол не огласован отдельно: статья начинается с масдара (الْحَمْدُ) и «بابه فهم» (فَعِلَ). Мисбах даёт حَمِدْتُهُ (касра), баб не указан. Статья Мисбаха идёт со стр. 149 на 150 в одной shamela-странице."
+ },
+ {
+  "root": "عمل",
+  "verbs": [
+   {
+    "past": "عَمِلَ",
+    "R2": "kasra",
+    "mudariOrBab": "من باب طرب",
+    "meaning": "делать, работать"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "kasra",
+  "midVowelSecond": "kasra",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 2,
+   "page": 628,
+   "shamelaId": 627,
+   "shamelaUrl": "https://shamela.ws/book/7028/627",
+   "rootHeadingSeen": "(عمل)",
+   "rootMentioned": true,
+   "note": "Заголовок (عمل) виден в тексте страницы shamela (без огласовок). id 627 = стр. 628 (том 2)."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/2284",
+  "mukhtarPage": 218,
+  "mukhtarQuote": "(عَمِلَ) مِنْ بَابِ طَرِبَ",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/2114",
+  "secondPage": 430,
+  "secondVolume": 2,
+  "secondQuote": "عَمِلْتُهُ أَعْمَلُهُ عَمَلًا صَنَعْتُهُ",
+  "status": "candidate"
+ },
+ {
+  "root": "سخر",
+  "verbs": [
+   {
+    "past": "سَخِرَ",
+    "R2": "kasra",
+    "mudariOrBab": "من باب طرب",
+    "meaning": "насмехаться"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "kasra",
+  "midVowelSecond": "kasra",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 1,
+   "page": 421,
+   "shamelaId": 421,
+   "shamelaUrl": "https://shamela.ws/book/7028/421",
+   "rootHeadingSeen": "(سخر)",
+   "rootMentioned": true,
+   "note": "Заголовок статьи в тексте страницы shamela записан формой с суффиксом (سخرت), далее (سخر) منه وبه."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/1568",
+  "mukhtarPage": 144,
+  "mukhtarQuote": "(سَخِرَ) مِنْهُ مِنْ بَابِ طَرِبَ",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/1388",
+  "secondPage": 269,
+  "secondVolume": 1,
+  "secondQuote": "سَخِرْتُ مِنْهُ وَبِهِ ... سَخَرًا مِنْ بَابِ تَعِبَ",
+  "status": "candidate"
+ },
+ {
+  "root": "سبق",
+  "verbs": [
+   {
+    "past": "سَبَقَ",
+    "R2": "fatha",
+    "mudariOrBab": "من باب ضرب",
+    "meaning": "опередить"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "fatha",
+  "midVowelSecond": "fatha",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 1,
+   "page": 414,
+   "shamelaId": 414,
+   "shamelaUrl": "https://shamela.ws/book/7028/414",
+   "rootHeadingSeen": "(سبق)",
+   "rootMentioned": true,
+   "note": "Заголовок статьи в тексте страницы shamela записан формой с суффиксом ه: (سبقه); виден также (سبق) على الأمر."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/1541",
+  "mukhtarPage": 141,
+  "mukhtarQuote": "(سَابَقَهُ فَسَبَقَهُ) مِنْ بَابِ ضَرَبَ",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/1363",
+  "secondPage": 265,
+  "secondVolume": 1,
+  "secondQuote": "سَبَقَ سَبْقًا مِنْ بَابِ ضَرَبَ",
+  "status": "candidate"
+ },
+ {
+  "root": "صرف",
+  "verbs": [
+   {
+    "past": "صَرَفَ",
+    "R2": "fatha",
+    "mudariOrBab": "من باب ضرب (يَصْرِفُ)",
+    "meaning": "отвратить, отвести; обменять (деньги)"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "fatha",
+  "midVowelSecond": "fatha",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 1,
+   "page": 513,
+   "shamelaId": 513,
+   "shamelaUrl": "https://shamela.ws/book/7028/513",
+   "rootHeadingSeen": "(صرف)",
+   "rootMentioned": true,
+   "note": "Заголовок (صرف) виден в тексте страницы shamela (без огласовок)."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/1899",
+  "mukhtarPage": 175,
+  "mukhtarQuote": "وَصَرَفَ اللَّهُ عَنْكَ الْأَذَى وَبَابُ الْخَمْسَةِ ضَرَبَ",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/1723",
+  "secondPage": 338,
+  "secondVolume": 1,
+  "secondQuote": "صَرَفْتُهُ عَنْ وَجْهِهِ صَرْفًا مِنْ بَابِ ضَرَبَ",
+  "status": "candidate"
+ },
+ {
+  "root": "غلب",
+  "verbs": [
+   {
+    "past": "غَلَبَ",
+    "R2": "fatha",
+    "mudariOrBab": "من باب ضرب",
+    "meaning": "победить"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "fatha",
+  "midVowelSecond": "fatha",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 2,
+   "page": 657,
+   "shamelaId": 656,
+   "shamelaUrl": "https://shamela.ws/book/7028/656",
+   "rootHeadingSeen": "(غلب)",
+   "rootMentioned": true,
+   "note": "Статья начинается на id 656 (стр. 657, том 2) заголовком (غَلبه) (форма с суффиксом ه) и продолжается на id 657 (стр. 658), где виден заголовок (غلب)."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/2387",
+  "mukhtarPage": 228,
+  "mukhtarQuote": "(غَلَبَ) مِنْ بَابِ ضَرَبَ (غَلَبَةً)",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/2217",
+  "secondPage": 450,
+  "secondVolume": 2,
+  "secondQuote": "غَلَبَهُ غَلْبًا مِنْ بَابِ ضَرَبَ",
+  "status": "candidate"
+ },
+ {
+  "root": "حلب",
+  "verbs": [
+   {
+    "past": "حَلَبَ",
+    "R2": "fatha",
+    "mudariOrBab": "يَحْلُبُ بالضم",
+    "meaning": "доить"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "fatha",
+  "midVowelSecond": "fatha",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 1,
+   "page": 191,
+   "shamelaId": 191,
+   "shamelaUrl": "https://shamela.ws/book/7028/191",
+   "rootHeadingSeen": "(حلب)",
+   "rootMentioned": true,
+   "note": "Заголовок (حلب) виден в тексте страницы shamela (без огласовок)."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/839",
+  "mukhtarPage": 78,
+  "mukhtarQuote": "(حَلَبَ) يَحْلُبُ بِالضَّمِّ (حَلَبًا)",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/730",
+  "secondPage": 145,
+  "secondVolume": 1,
+  "secondQuote": "حَلَبْتُ النَّاقَةَ وَغَيْرَهَا حَلْبًا مِنْ بَابِ قَتَلَ",
+  "status": "candidate",
+  "notes": "Статья Мисбаха не имеет отдельной shamela-страницы с заголовком: она стоит на странице-заголовке главы «الحاء مع اللام» (id 730), сразу после названия главы (проверено: соседние id 731 = حلج, 732 = حلس)."
+ },
+ {
+  "root": "طرد",
+  "verbs": [
+   {
+    "past": "طَرَدَ",
+    "R2": "fatha",
+    "mudariOrBab": "من باب نصر",
+    "meaning": "прогнать, изгнать"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "fatha",
+  "midVowelSecond": "fatha",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 2,
+   "page": 553,
+   "shamelaId": 552,
+   "shamelaUrl": "https://shamela.ws/book/7028/552",
+   "rootHeadingSeen": "(طرد)",
+   "rootMentioned": true,
+   "note": "Заголовок статьи записан формой с суффиксом ه: (طرده). id 552 = стр. 553 (том 2); заголовок страницы на shamela ошибочно «باب الضاد»."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/2054",
+  "mukhtarPage": 189,
+  "mukhtarQuote": "(طَرَدَهُ) أَبْعَدَهُ مِنْ بَابِ نَصَرَ",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/1877",
+  "secondPage": 370,
+  "secondVolume": 2,
+  "secondQuote": "طَرَدَهُ طَرْدًا مِنْ بَابِ قَتَلَ",
+  "status": "candidate"
+ },
+ {
+  "root": "ذبح",
+  "verbs": [
+   {
+    "past": "ذَبَحَ",
+    "R2": "fatha",
+    "mudariOrBab": "وبابه قطع (в Мухтаре дан масдар الذبح)",
+    "meaning": "резать, зарезать"
+   }
+  ],
+  "unambiguous": true,
+  "midVowelMukhtar": "fatha",
+  "midVowelSecond": "fatha",
+  "agree": true,
+  "wasit": {
+   "found": true,
+   "volume": 1,
+   "page": 309,
+   "shamelaId": 309,
+   "shamelaUrl": "https://shamela.ws/book/7028/309",
+   "rootHeadingSeen": "(ذبح)",
+   "rootMentioned": true,
+   "note": "Заголовок статьи записан формой с суффиксом ه: (ذبحه); следом (ذبح) أكثر من الذبح."
+  },
+  "mukhtarUrl": "https://shamela.ws/book/23193/1191",
+  "mukhtarPage": 111,
+  "mukhtarQuote": "(الذَّبْحُ) مَعْرُوفٌ وَبَابُهُ قَطَعَ",
+  "secondSource": "المصباح المنير, shamela book 12145",
+  "secondUrl": "https://shamela.ws/book/12145/1036",
+  "secondPage": 206,
+  "secondVolume": 1,
+  "secondQuote": "ذَبَحْتُ الْحَيَوَانَ ذَبْحًا فَهُوَ ذَبِيحٌ وَمَذْبُوحٌ",
+  "status": "candidate",
+  "notes": "В Мухтаре глагол не огласован отдельно (статья начинается с масдара الذبح, «وبابه قطع» = فَعَلَ). Мисбах: ذَبَحْتُ (фатха)."
+ }
+]
