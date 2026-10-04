@@ -53,6 +53,7 @@ export function TrainerScreen({ verb, pronoun, ruleSources, mode = 'vowelled', r
 
   return (
     <main className="trainer" data-testid="trainer" data-status={status}>
+      <div className="col col-task">
       <section className="verb">
         <div className="arabic big" lang="ar" dir="rtl" data-testid="verb-form">
           {show(slotsToString(conjugatePast(verb, 'huwa')))}
@@ -95,6 +96,9 @@ export function TrainerScreen({ verb, pronoun, ruleSources, mode = 'vowelled', r
         </p>
       </section>
 
+      </div>
+
+      <div className="col col-input">
       <section className="palette letters arabic" lang="ar" dir="rtl" aria-label="Буквы">
         {letters.map((letter) => (
           <button
@@ -184,6 +188,7 @@ export function TrainerScreen({ verb, pronoun, ruleSources, mode = 'vowelled', r
           </section>
         )}
       </footer>
+      </div>
     </main>
   );
 }

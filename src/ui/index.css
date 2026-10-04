@@ -162,6 +162,13 @@ button { max-width: 100%; }
   gap: 4px;
 }
 .gate { padding: 16px; gap: 16px; }
+/* Колонки: на телефоне прозрачны (одна колонка), на широком низком окне — две колонки. */
+.col { display: contents; }
+@media (min-width: 900px) and (max-height: 720px) {
+  .trainer { max-width: 960px; flex-direction: row; align-items: flex-start; gap: 24px; }
+  .col { display: flex; flex-direction: column; gap: 4px; flex: 1 1 0; min-width: 0; }
+  .footer { position: static; }
+}
 .trainer > * { min-width: 0; }
 
 .arabic { font-family: 'Amiri', 'Noto Naskh Arabic', serif; line-height: 1.9; }
